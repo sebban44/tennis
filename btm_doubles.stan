@@ -21,6 +21,7 @@ model {
   }
 }
 
+//Generate player rankings
 generated quantities {
   real player_ranking[K];
   
