@@ -1,542 +1,542 @@
-"","date","tournaments","home","away","winner","pb_h","pb_a","home_odds","away_odds","pb_odds_h","pb_odds_a"
-"1","2024-09-24","Chengdu, China, Doubles","Doumbia S / Reboul F","Bhambri Y / Olivetti A",1,0.511,0.489,1.833,1.833,0.5,0.5
-"2","2024-09-24","Hangzhou, China, Doubles","Frantzen C / Jebens H","Nedunchezhiyan J / Prashanth N V S",0,0.645,0.355,1.3,3.4,0.746,0.254
-"3","2024-09-24","Beijing, China, Doubles, Qualifying","Murray J / Peers J","Jin Y / Li Z",1,0.924,0.076,1.025,17,0.97,0.03
-"4","2024-09-24","Beijing, China, Doubles, Qualifying","Escobar G / Hidalgo D","Reyes-Varela M A / Smith J-P",1,0.533,0.467,1.833,1.833,0.5,0.5
-"5","2024-09-24","Tokyo, Japan, Doubles, Qualifying","Barrientos N / Mansouri S","Erler A / Middelkoop M",0,0.491,0.509,1.833,1.833,0.5,0.5
-"6","2024-09-24","Orleans, France, Doubles","Broom C / Willis M","Grenier H / Sanchez L",0,0.853,0.147,1.25,3.75,0.777,0.223
-"7","2024-09-24","Orleans, France, Doubles","Bertrand R / Bouquier A","Guinard M / Jacq G",0,0.193,0.807,3.75,1.25,0.223,0.777
-"8","2024-09-24","Charleston, USA, Doubles","Harper P / Trhac P","Andrade A / Shelbayh A",0,0.446,0.554,1.833,1.833,0.5,0.5
-"9","2024-09-24","Charleston, USA, Doubles","Spizzirri E / Zink T","Harrison C / Tracy J",1,0.519,0.481,2.2,1.615,0.415,0.585
-"10","2024-09-24","Nonthaburi 4, Thailand, Doubles","Yevseyev D / Zhukayev B","Rodriguez C / Romios M C",0,0.136,0.864,2.75,1.4,0.317,0.683
-"11","2024-09-24","Nonthaburi 4, Thailand, Doubles","Bollipalli R C / Kadhe A","Chaiyarin C / Noikor N",1,0.96,0.04,1.04,9,0.948,0.052
-"12","2024-09-24","Asuncion, Doubles Main, M-ITF-PAR-01A","Midon L / Zeitune G","Cundom J / Hess S",1,0.806,0.194,1.444,2.625,0.662,0.338
-"13","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","Hands T / Wendelken H","Koistila Larsson K / Kumar M",1,0.885,0.115,1.083,7,0.907,0.093
-"14","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","Hendrikx J / Rottgering M","Eriksson S / Tudorica A N",0,0.579,0.421,2.75,1.4,0.317,0.683
-"15","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","Durasovic V / Hellum Lilleengen L","Dellavedova M / Staley J",1,0.929,0.071,1.286,3.5,0.754,0.246
-"16","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","Gadamauri B / Matusevich A","Grevelius E / Heinonen A",0,0.487,0.513,1.571,2.25,0.6,0.4
-"17","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","Munkhammar P / Stidell F","Geerts M / Wiskandt M",0,0.243,0.757,7.5,1.071,0.082,0.918
-"18","2024-09-24","Fuzhou, Doubles Main, M-ITF-CHN-13A","Tang S / Zheng Z","Zhao R / Zheng Y",1,0.95,0.05,1.083,7,0.907,0.093
-"19","2024-09-24","Kigali, Doubles Main, M-ITF-RWA-01A","Banthia S / Ganta S K R","Ananth Mani M / Kumaran B N",1,0.879,0.121,1.1,6.5,0.893,0.107
-"20","2024-09-24","Kigali, Doubles Main, M-ITF-RWA-01A","Caripi V / Steiner M","Denolly C / Ouakaa A",0,0.195,0.805,3.5,1.286,0.246,0.754
-"21","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","Beaupain S / Demanet E","Nagoudi A / Smiej Y",1,0.714,0.286,1.05,8.5,0.938,0.062
-"22","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","Ciavarella N / Minighini D","Alkaya M / Ozdemir S M",0,0.355,0.645,2.5,1.5,0.362,0.638
-"23","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","Jones A / Jones M","Andaloro F / Tammaro M",0,0.614,0.386,1.833,1.833,0.5,0.5
-"24","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","Bittoun Kouzmine C / Zgirovsky A","Elamin A / Mashni Z",1,0.888,0.112,1.125,5.5,0.869,0.131
-"25","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","Jorquera E / Sun Z","Krolo F / Marysko V",0,0.364,0.636,7.5,1.071,0.082,0.918
-"26","2024-09-24","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Dessi M / Dessi N","Ocleppo J / Oradini G",0,0.086,0.914,8,1.062,0.073,0.927
-"27","2024-09-24","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Chvets V / Mishkin K","Bosio G / Perin R",0,0.549,0.451,2.1,1.667,0.436,0.564
-"28","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","Markiewicz J / Shaw M","Cowley R / Hignett L",1,0.577,0.423,1.5,2.5,0.638,0.362
-"29","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","Pedrico Kravtsov A / Segado Esteve R","Atlangeriev B / Sheyngezikht L",1,0.62,0.38,1.615,2.2,0.585,0.415
-"30","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","Bueno Gil A / Forcano I","Sanchez Quilez A / Winter Lopez B",0,0.141,0.859,6,1.111,0.118,0.882
-"31","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","Handel T / Heller P","Herberg Amoros A / Marti Pujolras A",1,0.894,0.106,1.143,5,0.853,0.147
-"32","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","Nijboer R / Nikles J","Alvarez Varona N / Lopez Morillo I",1,0.772,0.228,1.444,2.625,0.662,0.338
-"33","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Ivanov S / Kountourakis I","Blazka D / Gengel M",1,0.401,0.599,1.25,3.75,0.777,0.223
-"34","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Bassem Sobhy M / Zakaryia F","Binda A / Zhu M",1,0.431,0.569,1.833,1.833,0.5,0.5
-"35","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Elsayed A / Ibrahim K","Furlanetto M / Giunta M",0,0.545,0.455,1.667,2.1,0.564,0.436
-"36","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","El Sallaly A / Stanke C","Kielan S / Pieczonka F",0,0.102,0.898,3.5,1.286,0.246,0.754
-"37","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Castagnola L / Fondriest M","Alabdullah B / Alshati A",1,0.8,0.2,1.05,8.5,0.938,0.062
-"38","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","Coman M A / Kobierski J","Bonsach Ganley K / Torres Ramis M",0,0.694,0.306,1.444,2.625,0.662,0.338
-"39","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","Pieleanu R T / Wazny A","Ferrari F / Valle F",1,0.447,0.553,2.75,1.4,0.317,0.683
-"40","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","Pinheiro Da Cruz Junior G / Raul Theophilo Bruno De La Vega R","Onofrei M C / Uta D",1,0.566,0.434,4.5,1.167,0.167,0.833
-"41","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","Orlov V / Pavel B","Martin Manzano J C / Zanada E",0,0.763,0.237,1.25,3.75,0.777,0.223
-"42","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","Catry R / Nagel A","De Jonge D / Opitz J",1,0.738,0.262,1.833,1.833,0.5,0.5
-"43","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","Cerny M / Paty D","Ruehl T / Wehnelt K",0,0.27,0.73,2.375,1.533,0.38,0.62
-"44","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","Schell N / Visker N","Ghazouani Durand Y / Massard L",1,0.518,0.482,2.1,1.667,0.436,0.564
-"45","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","Compagnucci T / Fiorentini A","Horve L / Okonkwo O",0,0.101,0.899,3.25,1.333,0.272,0.728
-"46","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","Basic M / Nedic A","Lulic N / Stefanovic M",1,0.898,0.102,1.04,9,0.948,0.052
-"47","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","Beckley A / Paz J P","Chepelev A / Erhard M",1,0.584,0.416,1.333,3.25,0.728,0.272
-"48","2024-09-25","Beijing, China, Doubles, Qualifying","Murray J / Peers J","Escobar G / Hidalgo D",1,0.626,0.374,1.4,2.75,0.683,0.317
-"49","2024-09-25","Orleans, France, Doubles","Arends S / Johnson L","Pichler D / Rodionov J",1,0.627,0.373,1.3,3.4,0.746,0.254
-"50","2024-09-25","Orleans, France, Doubles","Chandrasekar A / Kaliyanda Poonacha N","Haase R / Miedler L",0,0.441,0.559,3.25,1.333,0.272,0.728
-"51","2024-09-25","Orleans, France, Doubles","Eysseric J / Mayot H","Bonzi B / Gueymard Wayenburg S",0,0.461,0.539,1.286,3.5,0.754,0.246
-"52","2024-09-25","Orleans, France, Doubles","Goransson A / Verbeek S","Schnaitter J / Wallner M",0,0.615,0.385,1.5,2.5,0.638,0.362
-"53","2024-09-25","Orleans, France, Doubles","Lamasine T / Paris T","Janvier M / Vatutin A",1,0.604,0.396,1.833,1.833,0.5,0.5
-"54","2024-09-25","Antofagasta, Chile, Doubles","Couacaud E / De Jong J","Arias B / Zeballos F",1,0.399,0.601,2.25,1.571,0.4,0.6
-"55","2024-09-25","Antofagasta, Chile, Doubles","Duncan S / Reese H","Guillen Meza A / Vallejo Daniel",0,0.335,0.665,1.5,2.5,0.638,0.362
-"56","2024-09-25","Antofagasta, Chile, Doubles","Heide G / Reis Da Silva J L","Britto L / Saraiva Dos Santos P",1,0.555,0.445,1.533,2.375,0.62,0.38
-"57","2024-09-25","Antofagasta, Chile, Doubles","Luz O / Zormann M","Becerra Otarola I A / Nunez D A",1,0.845,0.155,1.071,7.5,0.918,0.082
-"58","2024-09-25","Antofagasta, Chile, Doubles","Mena F / Roncadelli F","Alves M / Soto M",0,0.454,0.546,2.2,1.615,0.415,0.585
-"59","2024-09-25","Lisbon, Portugal, Doubles","Arneodo R / Arribage T","Elias G / Falcao G",1,0.926,0.074,1.083,7,0.907,0.093
-"60","2024-09-25","Lisbon, Portugal, Doubles","Cabral F / Pellegrino A","Cornea V V / Molchanov D",1,0.39,0.61,2.2,1.615,0.415,0.585
-"61","2024-09-25","Lisbon, Portugal, Doubles","Cervantes Huegun I / Rincon D","Bortolotti M / Seggerman R",1,0.461,0.539,2.2,1.615,0.415,0.585
-"62","2024-09-25","Lisbon, Portugal, Doubles","Drzewiecki K / Matuszewski P","Donski A / Oberleitner N",1,0.45,0.55,1.444,2.625,0.662,0.338
-"63","2024-09-25","Lisbon, Portugal, Doubles","Jecan M-A / Liutarevich I","Ferreira Silva F / Vale D",1,0.822,0.178,1.444,2.625,0.662,0.338
-"64","2024-09-25","Lisbon, Portugal, Doubles","Martinez L D / Vega Hernandez D","Faria J / Rocha H",1,0.243,0.757,2.5,1.5,0.362,0.638
-"65","2024-09-25","Lisbon, Portugal, Doubles","Martos Gornes S / Walkow S","Goldhoff G / Romboli F",0,0.389,0.611,2,1.727,0.459,0.541
-"66","2024-09-25","Lisbon, Portugal, Doubles","Nouza P / Rikl P","Cukierman D / Sabanov I",1,0.7,0.3,1.286,3.5,0.754,0.246
-"67","2024-09-25","Nonthaburi 4, Thailand, Doubles","Charoenphon Y / Samrej K","Ellis B / Walton A",0,0.238,0.762,8.5,1.05,0.062,0.938
-"68","2024-09-25","Nonthaburi 4, Thailand, Doubles","Diallo G / Watanabe S","Pel D / Stevens B",1,0.432,0.568,2.5,1.5,0.362,0.638
-"69","2024-09-25","Nonthaburi 4, Thailand, Doubles","Matsui T / Ramanathan R","Noguchi R / Uchida K",1,0.341,0.659,2,1.727,0.459,0.541
-"70","2024-09-25","Nonthaburi 4, Thailand, Doubles","Moro Canas A / Trungelliti M","Alcantara F C / Chung Y S",1,0.172,0.828,2,1.727,0.459,0.541
-"71","2024-09-25","Fuzhou, Doubles Main, M-ITF-CHN-13A","Dong Z / Hongyu Y","Castelnuovo L / Shin W",0,0.158,0.842,6,1.111,0.118,0.882
-"72","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Battiston A / Bondioli F","Guerrieri A / Vulpitta G",0,0.384,0.616,1.833,1.833,0.5,0.5
-"73","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Carboni L / Rapagnetta D","Caruso A / Caruso S",1,0.49,0.51,2.5,1.5,0.362,0.638
-"74","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Iannaccone F / Tabacco F","La Vela G / Malgaroli L",0,0.557,0.443,1.833,1.833,0.5,0.5
-"75","2024-09-25","Zlatibor, Doubles Main, M-ITF-SRB-25A","Sakellaridis D / Sakellaridis M","Dinev D / Obradovic D",1,0.421,0.579,3,1.364,0.293,0.707
-"76","2024-09-25","Tokyo, Japan, Doubles","Erler A / Middelkoop M","Draper J / Machac T",0,0.534,0.466,1.83,1.83,0.5,0.5
-"77","2024-09-25","Tokyo, Japan, Doubles","Shelton B / Thompson J","Nishioka Y / Uesugi K",1,0.65,0.35,1.2,4.333,0.812,0.188
-"78","2024-09-25","Tokyo, Japan, Doubles","Lammons N / Withrow J","Nishikori K / Sakamoto R",1,0.926,0.074,1.14,5.5,0.86,0.14
-"79","2024-09-25","Charleston, USA, Doubles","Puttergill C / Sweeny D","Pearson K / Sheehy J",1,0.425,0.575,1.667,2.1,0.564,0.436
-"80","2024-09-25","Charleston, USA, Doubles","Peniston R / Stevenson D","Saville L / Schoolkate T",0,0.315,0.685,2.375,1.533,0.38,0.62
-"81","2024-09-25","Charleston, USA, Doubles","Bertola R / Stricker D","Kiger M / Sigouin B",0,0.674,0.326,1.727,2,0.541,0.459
-"82","2024-09-25","Charleston, USA, Doubles","Hach Verdugo H / Trotter J K","Kingsley C / Stevenson K",1,0.752,0.248,1.4,2.75,0.683,0.317
-"83","2024-09-25","Charleston, USA, Doubles","Hilderbrand T / Lawson A","Martin A / Woodall W",1,0.803,0.197,1.2,4.333,0.812,0.188
-"84","2024-09-25","Charleston, USA, Doubles","Roveri Sidney G / Whiting T","Galarneau A / Holt B",1,0.705,0.295,2.25,1.571,0.4,0.6
-"85","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","Midon L / Zeitune G","Torrealba B / Villalon Valdes N",1,0.66,0.34,1.533,2.375,0.62,0.38
-"86","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","Estevez J / Monferrer L","Basel V / Ribero F",0,0.254,0.746,1.833,1.833,0.5,0.5
-"87","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","Escurra Isnardi H J / Vergara Del Puerto M","Boscardin Dias P / Zeitune M",0,0.444,0.556,1.833,1.833,0.5,0.5
-"88","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","Frutos Alonso A A / Nunez Vera A S","De La Fuente S / Falabella L A",0,0.358,0.642,9,1.04,0.052,0.948
-"89","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","Bass F / Mackinlay J","Eriksson S / Tudorica A N",0,0.718,0.282,2.1,1.667,0.436,0.564
-"90","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","Bladelius H / Karlsson Wistrand J","Grevelius E / Heinonen A",0,0.233,0.767,2.25,1.571,0.4,0.6
-"91","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","Durasovic V / Hellum Lilleengen L","Geerts M / Wiskandt M",1,0.556,0.444,2.5,1.5,0.362,0.638
-"92","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","Kaukovalta P / Vasa E","Hands T / Wendelken H",1,0.374,0.626,1.571,2.25,0.6,0.4
-"93","2024-09-25","Sabadell, Doubles Main, M-ITF-ESP-41A","Pedrico Kravtsov A / Segado Esteve R","Harper C / Montes-De La Torre I",0,0.109,0.891,5.5,1.125,0.131,0.869
-"94","2024-09-25","Sabadell, Doubles Main, M-ITF-ESP-41A","Nijboer R / Nikles J","Handel T / Heller P",1,0.464,0.536,1.667,2.1,0.564,0.436
-"95","2024-09-25","Targu Mures, Doubles Main, M-ITF-ROU-20A","Pinheiro Da Cruz Junior G / Raul Theophilo Bruno De La Vega R","Pieleanu R T / Wazny A",0,0.399,0.601,3.75,1.25,0.223,0.777
-"96","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","Beloborodko I / Poritskyy A","Ruehl T / Wehnelt K",0,0.093,0.907,4,1.222,0.205,0.795
-"97","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","Beloborodko I / Poritskyy A","Homola P / Michnev P",1,0.478,0.522,2.1,1.667,0.436,0.564
-"98","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","Karol M / Lanik T","De Bernardis A / Rottoli L",1,0.888,0.112,1.444,2.625,0.662,0.338
-"99","2024-09-26","Beijing, China, Doubles","Bolelli S / Vavassori A","Wang A / Zhou Y",1,0.838,0.162,2.6,1.4,0.326,0.674
-"100","2024-09-26","Beijing, China, Doubles","Carballes Baena R / Carreno Busta P","Heliovaara H / Patten H",0,0.124,0.876,5,1.17,0.162,0.838
-"101","2024-09-26","Beijing, China, Doubles","Cerundolo F / Jarry N","Bopanna R / Dodig I",1,0.114,0.886,5,1.17,0.162,0.838
-"102","2024-09-26","Beijing, China, Doubles","Krajicek A / Ram R","Koolhof W / Mektic N",0,0.504,0.496,2.1,1.67,0.436,0.564
-"103","2024-09-26","Beijing, China, Doubles","Skupski N / Venus M","Cobolli F. / Musetti L",0,0.818,0.182,1.29,3.5,0.753,0.247
-"104","2024-09-26","Fuzhou, Doubles Main, M-ITF-CHN-13A","Jeong Y / Park U","Hsu J C E / Van Wyk K",1,0.555,0.445,1.667,2.1,0.564,0.436
-"105","2024-09-26","Monastir, Doubles Main, M-ITF-TUN-51A","Andaloro F / Tammaro M","Alkaya M / Ozdemir S M",1,0.45,0.55,1.533,2.375,0.62,0.38
-"106","2024-09-26","Monastir, Doubles Main, M-ITF-TUN-51A","Beaupain S / Demanet E","Gil Garcia A / Merre N",1,0.695,0.305,1.333,3.25,0.728,0.272
-"107","2024-09-26","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Furlanetto M / Giunta M","Kielan S / Pieczonka F",0,0.175,0.825,4.333,1.2,0.188,0.812
-"108","2024-09-26","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Ivanov S / Kountourakis I","Bassem Sobhy M / Zakaryia F",0,0.329,0.671,2.375,1.533,0.38,0.62
-"109","2024-09-26","Tokyo, Japan, Doubles","Behar A / Galloway R","Pavlasek A / Rojer J-J",1,0.425,0.575,1.83,1.83,0.5,0.5
-"110","2024-09-26","Tokyo, Japan, Doubles","Cash J / Glasspool L","Gonzalez M / Molteni A",1,0.504,0.496,1.83,1.83,0.5,0.5
-"111","2024-09-26","Orleans, France, Doubles","Grenier H / Sanchez L","Haase R / Miedler L",1,0.259,0.741,3.5,1.286,0.246,0.754
-"112","2024-09-26","Orleans, France, Doubles","Lamasine T / Paris T","Guinard M / Jacq G",0,0.182,0.818,3.75,1.25,0.223,0.777
-"113","2024-09-26","Antofagasta, Chile, Doubles","Braga B / Braga V","Couacaud E / De Jong J",0,0.197,0.803,21,1.002,0.004,0.996
-"114","2024-09-26","Antofagasta, Chile, Doubles","Luz O / Zormann M","Heide G / Reis Da Silva J L",1,0.594,0.406,1.444,2.625,0.662,0.338
-"115","2024-09-26","Antofagasta, Chile, Doubles","Ambrogi L E / Zuniga Garcia B","Alves M / Soto M",0,0.272,0.728,7,1.083,0.093,0.907
-"116","2024-09-26","Charleston, USA, Doubles","Hach Verdugo H / Trotter J K","Andrade A / Shelbayh A",0,0.61,0.39,1.833,1.833,0.5,0.5
-"117","2024-09-26","Charleston, USA, Doubles","Hilderbrand T / Lawson A","Puttergill C / Sweeny D",0,0.665,0.335,1.667,2.1,0.564,0.436
-"118","2024-09-26","Charleston, USA, Doubles","Kiger M / Sigouin B","Spizzirri E / Zink T",0,0.306,0.694,1.727,2,0.541,0.459
-"119","2024-09-26","Charleston, USA, Doubles","Roveri Sidney G / Whiting T","Saville L / Schoolkate T",0,0.207,0.793,3,1.364,0.293,0.707
-"120","2024-09-26","Lisbon, Portugal, Doubles","Nouza P / Rikl P","Drzewiecki K / Matuszewski P",0,0.716,0.284,1.3,3.4,0.746,0.254
-"121","2024-09-26","Lisbon, Portugal, Doubles","Jecan M-A / Liutarevich I","Cervantes Huegun I / Rincon D",0,0.372,0.628,1.833,1.833,0.5,0.5
-"122","2024-09-26","Lisbon, Portugal, Doubles","Arneodo R / Arribage T","Martinez L D / Vega Hernandez D",1,0.742,0.258,1.571,2.25,0.6,0.4
-"123","2024-09-26","Lisbon, Portugal, Doubles","Goldhoff G / Romboli F","Cabral F / Pellegrino A",1,0.462,0.538,2.25,1.571,0.4,0.6
-"124","2024-09-26","Nonthaburi 4, Thailand, Doubles","Bollipalli R C / Kadhe A","Diallo G / Watanabe S",1,0.596,0.404,1.571,2.25,0.6,0.4
-"125","2024-09-26","Nonthaburi 4, Thailand, Doubles","Ho R / Paris J","Bayldon B / Fancutt T",0,0.546,0.454,1.5,2.5,0.638,0.362
-"126","2024-09-26","Nonthaburi 4, Thailand, Doubles","Matsui T / Ramanathan R","Moro Canas A / Trungelliti M",1,0.607,0.393,1.286,3.5,0.754,0.246
-"127","2024-09-26","Nonthaburi 4, Thailand, Doubles","Ellis B / Walton A","Rodriguez C / Romios M C",1,0.397,0.603,1.833,1.833,0.5,0.5
-"128","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","Del Pino M / La Serna J M","De La Fuente S / Falabella L A",0,0.759,0.241,1.444,2.625,0.662,0.338
-"129","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","Franco T / Vilicich B","Boscardin Dias P / Zeitune M",0,0.173,0.827,2.375,1.533,0.38,0.62
-"130","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","Cavallo F / Mouilleron Salvo M","Basel V / Ribero F",0,0.286,0.714,2.625,1.444,0.338,0.662
-"131","2024-09-26","Falun, Doubles Main, M-ITF-SWE-04A","Eriksson S / Tudorica A N","Kaukovalta P / Vasa E",0,0.305,0.695,2.75,1.4,0.317,0.683
-"132","2024-09-26","Falun, Doubles Main, M-ITF-SWE-04A","Grevelius E / Heinonen A","Durasovic V / Hellum Lilleengen L",1,0.641,0.359,1.533,2.375,0.62,0.38
-"133","2024-09-26","Fuzhou, Doubles Main, M-ITF-CHN-13A","Huang T-H / Xiao L","Castelnuovo L / Shin W",0,0.529,0.471,2.2,1.615,0.415,0.585
-"134","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","Banthia S / Ganta S K R","Iradukunda G O / Safwat M",1,0.633,0.367,1.4,2.75,0.683,0.317
-"135","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","Lock B / Lock C J","Bianchi J J / Perez B",1,0.784,0.216,1.3,3.4,0.746,0.254
-"136","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","Iamachkine Samarina P P / Plunger M","Kumar P / Schachter N",0,0.2,0.8,6.5,1.1,0.107,0.893
-"137","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","Kalyanpur A / Reddy R","Denolly C / Ouakaa A",0,0.363,0.637,2.5,1.5,0.362,0.638
-"138","2024-09-26","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","La Vela G / Malgaroli L","Ocleppo J / Oradini G",0,0.131,0.869,3.25,1.333,0.272,0.728
-"139","2024-09-26","Sabadell, Doubles Main, M-ITF-ESP-41A","Harper C / Montes-De La Torre I","Alcala Gurri M / Nedelchev N",1,0.897,0.103,1.286,3.5,0.754,0.246
-"140","2024-09-26","Targu Mures, Doubles Main, M-ITF-ROU-20A","Konov S / Mortasifu M","Ribeiro Lago E J / Schiessl J E",0,0.105,0.895,7,1.083,0.093,0.907
-"141","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","Karol M / Lanik T","Catry R / Nagel A",1,0.468,0.532,1.4,2.75,0.683,0.317
-"142","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","Medved J / Talajka T","Krajci M / Pokorny L",0,0.423,0.577,6.5,1.1,0.107,0.893
-"143","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","Schell N / Visker N","Brunclik P / Petak D",1,0.61,0.39,1.833,1.833,0.5,0.5
-"144","2024-09-26","Zlatibor, Doubles Main, M-ITF-SRB-25A","Sakellaridis D / Sakellaridis M","Bojkovic N / Topo M",1,0.24,0.76,1.25,3.75,0.777,0.223
-"145","2024-09-26","Zlatibor, Doubles Main, M-ITF-SRB-25A","Vanshelboim E / Whitehouse M","Beckley A / Paz J P",0,0.494,0.506,1.5,2.5,0.638,0.362
-"146","2024-09-27","Beijing, China, Doubles","Matos R / Melo M","Murray J / Peers J",0,0.487,0.513,1.83,1.83,0.5,0.5
-"147","2024-09-27","Tokyo, Japan, Doubles","Darderi L / Etcheverry T M","Michelsen A / Tabilo A",0,0.144,0.856,2.75,1.4,0.317,0.683
-"148","2024-09-27","Tokyo, Japan, Doubles","Doumbia S / Reboul F","Gille S / Vliegen J",1,0.678,0.322,1.73,2,0.541,0.459
-"149","2024-09-27","Tokyo, Japan, Doubles","Hijikata R / Popyrin A","Nys H / Zielinski J",0,0.157,0.843,2.25,1.57,0.4,0.6
-"150","2024-09-27","Orleans, France, Doubles","Arends S / Johnson L","Bonzi B / Gueymard Wayenburg S",0,0.64,0.36,1.364,3,0.707,0.293
-"151","2024-09-27","Orleans, France, Doubles","Schnaitter J / Wallner M","Genov A / Vincent Ruggeri S",1,0.514,0.486,1.444,2.625,0.662,0.338
-"152","2024-09-27","Beijing, China, Doubles","Escobar G / Hidalgo D","Gonzalez S / Roger-Vasselin E",0,0.344,0.656,3,1.36,0.292,0.708
-"153","2024-09-27","Antofagasta, Chile, Doubles","Luz O / Zormann M","Aboian L / Aboian V",0,0.714,0.286,1.333,3.25,0.728,0.272
-"154","2024-09-27","Antofagasta, Chile, Doubles","Alves M / Soto M","Couacaud E / De Jong J",1,0.552,0.448,1.909,1.8,0.483,0.517
-"155","2024-09-27","Nonthaburi 4, Thailand, Doubles","Bollipalli R C / Kadhe A","Matsui T / Ramanathan R",1,0.697,0.303,1.571,2.25,0.6,0.4
-"156","2024-09-27","Nonthaburi 4, Thailand, Doubles","Bayldon B / Fancutt T","Ellis B / Walton A",0,0.382,0.618,2.25,1.571,0.4,0.6
-"157","2024-09-27","Asuncion, Doubles Main, M-ITF-PAR-01A","De La Fuente S / Falabella L A","Boscardin Dias P / Zeitune M",1,0.381,0.619,2.1,1.667,0.436,0.564
-"158","2024-09-27","Asuncion, Doubles Main, M-ITF-PAR-01A","Basel V / Ribero F","Midon L / Zeitune G",1,0.344,0.656,2,1.727,0.459,0.541
-"159","2024-09-27","Falun, Doubles Main, M-ITF-SWE-04A","Kaukovalta P / Vasa E","Grevelius E / Heinonen A",0,0.338,0.662,1.833,1.833,0.5,0.5
-"160","2024-09-27","Fuzhou, Doubles Main, M-ITF-CHN-13A","Yang Z / Zeng Y","Tang S / Zheng Z",1,0.246,0.754,1.833,1.833,0.5,0.5
-"161","2024-09-27","Fuzhou, Doubles Main, M-ITF-CHN-13A","Jeong Y / Park U","Castelnuovo L / Shin W",0,0.382,0.618,2.375,1.533,0.38,0.62
-"162","2024-09-27","Kigali, Doubles Main, M-ITF-RWA-01A","Lock B / Lock C J","Banthia S / Ganta S K R",1,0.503,0.497,1.444,2.625,0.662,0.338
-"163","2024-09-27","Sabadell, Doubles Main, M-ITF-ESP-41A","Nijboer R / Nikles J","Harper C / Montes-De La Torre I",1,0.282,0.718,2.5,1.5,0.362,0.638
-"164","2024-09-27","Targu Mures, Doubles Main, M-ITF-ROU-20A","Pieleanu R T / Wazny A","Ribeiro Lago E J / Schiessl J E",0,0.321,0.679,4.333,1.2,0.188,0.812
-"165","2024-09-27","Trnava, Doubles Main, M-ITF-SVK-03A","Karol M / Lanik T","Schell N / Visker N",1,0.539,0.461,1.727,2,0.541,0.459
-"166","2024-09-27","Trnava, Doubles Main, M-ITF-SVK-03A","Krajci M / Pokorny L","Ruehl T / Wehnelt K",0,0.117,0.883,3.5,1.286,0.246,0.754
-"167","2024-09-28","Orleans, France, Doubles","Guinard M / Jacq G","Grenier H / Sanchez L",1,0.838,0.162,1.286,3.5,0.754,0.246
-"168","2024-09-28","Tokyo, Japan, Doubles","Lammons N / Withrow J","Behar A / Galloway R",0,0.673,0.327,1.53,2.38,0.621,0.379
-"169","2024-09-28","Orleans, France, Doubles","Schnaitter J / Wallner M","Bonzi B / Gueymard Wayenburg S",0,0.538,0.462,1.444,2.625,0.662,0.338
-"170","2024-09-28","Antofagasta, Chile, Doubles","Aboian L / Aboian V","Alves M / Soto M",0,0.369,0.631,2.375,1.533,0.38,0.62
-"171","2024-09-28","Charleston, USA, Doubles","Andrade A / Shelbayh A","Puttergill C / Sweeny D",0,0.696,0.304,1.5,2.5,0.638,0.362
-"172","2024-09-28","Charleston, USA, Doubles","Spizzirri E / Zink T","Saville L / Schoolkate T",0,0.46,0.54,2.2,1.615,0.415,0.585
-"173","2024-09-28","Lisbon, Portugal, Doubles","Arneodo R / Arribage T","Drzewiecki K / Matuszewski P",1,0.597,0.403,1.444,2.625,0.662,0.338
-"174","2024-09-28","Nonthaburi 4, Thailand, Doubles","Bollipalli R C / Kadhe A","Ellis B / Walton A",0,0.525,0.475,1.571,2.25,0.6,0.4
-"175","2024-09-28","Asuncion, Doubles Main, M-ITF-PAR-01A","De La Fuente S / Falabella L A","Basel V / Ribero F",1,0.524,0.476,1.833,1.833,0.5,0.5
-"176","2024-09-28","Fuzhou, Doubles Main, M-ITF-CHN-13A","Yang Z / Zeng Y","Castelnuovo L / Shin W",0,0.318,0.682,1.833,1.833,0.5,0.5
-"177","2024-09-28","Kigali, Doubles Main, M-ITF-RWA-01A","Lock B / Lock C J","Denolly C / Ouakaa A",0,0.464,0.536,1.615,2.2,0.585,0.415
-"178","2024-09-28","Monastir, Doubles Main, M-ITF-TUN-51A","Aksu C / Celikbilek A","Andaloro F / Tammaro M",1,0.723,0.277,1.571,2.25,0.6,0.4
-"179","2024-09-28","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","Bilardo J / Virgili A","Ocleppo J / Oradini G",0,0.348,0.652,1.667,2.1,0.564,0.436
-"180","2024-09-28","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","Golubev D / Tiurnev E","Kielan S / Pieczonka F",0,0.131,0.869,3.5,1.286,0.246,0.754
-"181","2024-09-28","Targu Mures, Doubles Main, M-ITF-ROU-20A","Dumitru A C / Tomescu D A","Ribeiro Lago E J / Schiessl J E",0,0.309,0.691,2.75,1.4,0.317,0.683
-"182","2024-09-28","Trnava, Doubles Main, M-ITF-SVK-03A","Karol M / Lanik T","Ruehl T / Wehnelt K",1,0.453,0.547,1.615,2.2,0.585,0.415
-"183","2024-09-28","Zlatibor, Doubles Main, M-ITF-SRB-25A","Beckley A / Paz J P","Gulin S / Snitari I",0,0.569,0.431,1.909,1.8,0.483,0.517
-"184","2024-09-29","Beijing, China, Doubles","Bolelli S / Vavassori A","Bublik A / Martinez P",1,0.853,0.147,1.36,3,0.708,0.292
-"185","2024-09-29","Beijing, China, Doubles","Gonzalez S / Roger-Vasselin E","Heliovaara H / Patten H",0,0.375,0.625,2.25,1.57,0.4,0.6
-"186","2024-09-29","Beijing, China, Doubles","Cobolli F. / Musetti L","Koolhof W / Mektic N",0,0.224,0.776,3.5,1.29,0.247,0.753
-"187","2024-09-29","Beijing, China, Doubles","Murray J / Peers J","Cerundolo F / Jarry N",1,0.829,0.171,1.33,3.25,0.729,0.271
-"188","2024-09-29","Tokyo, Japan, Doubles","Michelsen A / Tabilo A","Nys H / Zielinski J",1,0.417,0.583,2.25,1.57,0.4,0.6
-"189","2024-09-29","Orleans, France, Doubles","Bonzi B / Gueymard Wayenburg S","Guinard M / Jacq G",1,0.366,0.634,2.75,1.4,0.317,0.683
-"190","2024-09-29","Lisbon, Portugal, Doubles","Arneodo R / Arribage T","Goldhoff G / Romboli F",1,0.655,0.345,1.5,2.5,0.638,0.362
-"191","2024-09-30","Tokyo, Japan, Doubles","Cash J / Glasspool L","Michelsen A / Tabilo A",1,0.532,0.468,1.57,2.25,0.6,0.4
-"192","2024-10-01","Beijing, China, Doubles","Bolelli S / Vavassori A","Koolhof W / Mektic N",1,0.521,0.479,1.67,2.1,0.564,0.436
-"193","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Barrientos N / Mansouri S","Holmgren A / Ingildsen J",0,0.594,0.406,1.533,2.375,0.62,0.38
-"194","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Broom C / Hermans M","Demoliner M / Harrison C",0,0.329,0.671,1.833,1.833,0.5,0.5
-"195","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Chidekh C / Sanchez L","Schnaitter J / Wallner M",0,0.142,0.858,2.5,1.5,0.362,0.638
-"196","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Garcian A / Mayot H","Debru G / Martineau M",0,0.461,0.539,2,1.727,0.459,0.541
-"197","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Guinard M / Jacq G","Eysseric J / Reymond A",1,0.7,0.3,1.571,2.25,0.6,0.4
-"198","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Poullain L / Reco A","Haase R / Miedler L",0,0.18,0.82,8,1.062,0.073,0.927
-"199","2024-10-01","Mouilleron-Le-Captif, France, Doubles","Stevenson D / Willis M","Janvier M / Vatutin A",1,0.888,0.112,1.444,2.625,0.662,0.338
-"200","2024-10-01","Braga, Portugal, Doubles","Bortolotti M / Cukierman D","Galan D E / Taberner C",1,0.877,0.123,1.364,3,0.707,0.293
-"201","2024-10-01","Braga, Portugal, Doubles","Goldhoff G / Romboli F","Sabanov I / Sabanov M",0,0.538,0.462,1.667,2.1,0.564,0.436
-"202","2024-10-01","Braga, Portugal, Doubles","Kirkov V / Nava E","Arribage T / Cabral F",0,0.494,0.506,2.5,1.5,0.362,0.638
-"203","2024-10-01","Braga, Portugal, Doubles","Martos Gornes S / Walkow S","Pereira T / Vale D",0,0.614,0.386,1.571,2.25,0.6,0.4
-"204","2024-10-01","Braga, Portugal, Doubles","Oberleitner N / Virgili A","Bergevi F / Veldheer M",0,0.524,0.476,2.75,1.4,0.317,0.683
-"205","2024-10-01","Braga, Portugal, Doubles","Ricca G / Romano F","Jecan M-A / Liutarevich I",0,0.531,0.469,2.25,1.571,0.4,0.6
-"206","2024-10-01","Tiburon, USA, Doubles","Andrade A / Shelbayh A","Cash R / Tracy J",0,0.357,0.643,2.1,1.667,0.436,0.564
-"207","2024-10-01","Tiburon, USA, Doubles","Den Ouden G / Bertola R","Kypson P / Spizzirri E",0,0.651,0.349,2,1.727,0.459,0.541
-"208","2024-10-01","Tiburon, USA, Doubles","Hilderbrand T / Lawson A","Godsick N / Quinn E",1,0.744,0.256,1.4,2.75,0.683,0.317
-"209","2024-10-01","Tiburon, USA, Doubles","Kiger M / Trhac P","Holt B / Mejia N",1,0.807,0.193,1.444,2.625,0.662,0.338
-"210","2024-10-01","Tiburon, USA, Doubles","Pearson K / Sheehy J","Daniell M / Hach Verdugo H",1,0.553,0.447,3.5,1.286,0.246,0.754
-"211","2024-10-01","Tiburon, USA, Doubles","Puttergill C / Sweeny D","Saville L / Schoolkate T",0,0.226,0.774,2.625,1.444,0.338,0.662
-"212","2024-10-01","Tiburon, USA, Doubles","Roveri Sidney G / Whiting T","Oliveira G / Stevenson K",0,0.674,0.326,1.571,2.25,0.6,0.4
-"213","2024-10-01","Buenos Aires 3, Argentina, Doubles","Aboian L / Aboian V","Bueno G / Guillen Meza A",1,0.512,0.488,1.615,2.2,0.585,0.415
-"214","2024-10-01","Buenos Aires 3, Argentina, Doubles","Arias B / Zeballos F","Olivieri G / Ugo Carabelli Camilo",0,0.749,0.251,1.5,2.5,0.638,0.362
-"215","2024-10-01","Buenos Aires 3, Argentina, Doubles","Collarini A / Olivo R","Andreozzi G / Kestelboim M",0,0.172,0.828,2.75,1.4,0.317,0.683
-"216","2024-10-01","Buenos Aires 3, Argentina, Doubles","Gomez F A / Martinez L D","Ambrogi L E / Del Pino M",1,0.675,0.325,1.25,3.75,0.777,0.223
-"217","2024-10-01","Buenos Aires 3, Argentina, Doubles","Habib H / Popko D","Duncan S / Reese H",0,0.561,0.439,2.625,1.444,0.338,0.662
-"218","2024-10-01","Buenos Aires 3, Argentina, Doubles","Heide G / Reis Da Silva J L","Murkel Dellien / Mena F",0,0.41,0.59,1.833,1.833,0.5,0.5
-"219","2024-10-01","Buenos Aires 3, Argentina, Doubles","Huertas Del Pino Cordova A / Huertas Del Pino C","Carou I / Dellien H",0,0.787,0.213,1.727,2,0.541,0.459
-"220","2024-10-01","Buenos Aires 3, Argentina, Doubles","Meligeni Alves F / Zormann M","Alves M / Luz O",1,0.453,0.547,2.375,1.533,0.38,0.62
-"221","2024-10-01","Beijing, China, Doubles","Heliovaara H / Patten H","Murray J / Peers J",1,0.627,0.373,1.5,2.5,0.638,0.362
-"222","2024-10-01","Tokyo, Japan, Doubles","Behar A / Galloway R","Cash J / Glasspool L",0,0.368,0.632,2.1,1.67,0.436,0.564
-"223","2024-10-01","Villena, Spain, Doubles","Arends S / Johnson L","Merino A / Negritu C",0,0.657,0.343,1.143,5,0.853,0.147
-"224","2024-10-01","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Al Azmeh T / Martin D","Nefve A / Vance J",0,0.543,0.457,2.1,1.667,0.436,0.564
-"225","2024-10-01","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Perez A / Vance J","George B T / Siekanowicz P",1,0.643,0.357,1.222,4,0.795,0.205
-"226","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","Colson T / Loof T","Bianchet S / Birrell C",1,0.788,0.212,1.1,6.5,0.893,0.107
-"227","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","Falck R / Ryan Ziegann S","Delaney J / Delaney J",1,0.195,0.805,6,1.111,0.118,0.882
-"228","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","Bouzige M / Court J","Vickery L / Winter H",0,0.402,0.598,1.222,4,0.795,0.205
-"229","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","Inui Y / Mehrotra A","Gaal C / Papac T E",0,0.531,0.469,1.5,2.5,0.638,0.362
-"230","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hrazdil J / Poljak D","Bajurko A / Simundza J",1,0.869,0.131,1.167,4.5,0.833,0.167
-"231","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hrynkiewicz J / Jedrzejczak J","Kielan S / Pieczonka F",0,0.079,0.921,9,1.04,0.052,0.948
-"232","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Kaukovalta P / Vasa E","Graf D / Paty D",1,0.528,0.472,1.667,2.1,0.564,0.436
-"233","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","Chvets V / Mishkin K","Denolly C / Ouakaa A",0,0.155,0.845,3.75,1.25,0.223,0.777
-"234","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","Kumar P / Schachter N","Kalyanpur A / Reddy R",1,0.561,0.439,1.533,2.375,0.62,0.38
-"235","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","Laborde A / Neuchrist M","Banthia S / Ganta S K R",1,0.191,0.809,3.4,1.3,0.254,0.746
-"236","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","Cundom J / Hess S","Dutra Da Silva D / Pereira J",0,0.151,0.849,3.4,1.3,0.254,0.746
-"237","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","Basel V / Ribero F","Gonzalez Benitez F G / Martinez Morel F M",1,0.807,0.193,1.062,8,0.927,0.073
-"238","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","Britto L / Saraiva Dos Santos P","Alvarado Berrospi A O / Fishback R",1,0.833,0.167,1.222,4,0.795,0.205
-"239","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","Pinto L / Rodrigues L","Falabella L A / La Serna J M",0,0.088,0.912,5,1.143,0.147,0.853
-"240","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Augunas J / Fedorov T","Gima S / Hamza Reguig S",0,0.295,0.705,4.5,1.167,0.167,0.833
-"241","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Elamin A / Gil Garcia A","Knippling P / Nagoudi A",1,0.313,0.687,1.833,1.833,0.5,0.5
-"242","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Rodesch C / Woodall W","Sallay P / Smiej Y",1,0.6,0.4,1.222,4,0.795,0.205
-"243","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Andaloro F / Tammaro M","Campese C / Mazzola F",1,0.761,0.239,1.2,4.333,0.812,0.188
-"244","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Corbinais S / Ifi N","Chepelev A / Klok D",1,0.282,0.718,2.1,1.667,0.436,0.564
-"245","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","Evans G / Ross J","Schoenhaus M / Sperle J",1,0.173,0.827,3.25,1.333,0.272,0.728
-"246","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","Hignett L / Mackinlay J","Gouge M / Rocci M",1,0.733,0.267,1.03,10,0.959,0.041
-"247","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","Freire Da Silva A / Genier T","Brosset S / Colne N",1,0.459,0.541,1.533,2.375,0.62,0.38
-"248","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","Camus C / Marionneau L","Muller R / Visker N",0,0.092,0.908,2.625,1.444,0.338,0.662
-"249","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","Donnet E / Dussin L","Hoang A / Musitelli F",0,0.391,0.609,1.833,1.833,0.5,0.5
-"250","2024-10-01","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Krutykh O / Sakellaridis D","Ahti V / Overmyer K",1,0.639,0.361,1.5,2.5,0.638,0.362
-"251","2024-10-01","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Spadola A / Vavassori M","De Marchi A / Ortenzi G M",1,0.552,0.448,1.667,2.1,0.564,0.436
-"252","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Blazka D / Gengel M","Elsayed A / Jones M",0,0.182,0.818,5.5,1.125,0.131,0.869
-"253","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Story J / Summers M","Galimardanov O / Khazime D",1,0.822,0.178,1.125,5.5,0.869,0.131
-"254","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","De Alba Valdes R A / Sau Franco A","Kamchibekov I / Seleznev B",1,0.681,0.319,1.143,5,0.853,0.147
-"255","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Ehrenschneider N / Gayk C","Dalmasso G / Lakshmanan A",1,0.579,0.421,2.25,1.571,0.4,0.6
-"256","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","Beloborodko I / Poritskyy A","Hornung G / Kisantal B",1,0.323,0.677,1.833,1.833,0.5,0.5
-"257","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","Jermar J / Zelenay I","De Jonge D / Opitz J",1,0.518,0.482,1.833,1.833,0.5,0.5
-"258","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","Massard L / Nagel A","Hnidets V / Medved J",1,0.821,0.179,1.04,9,0.948,0.052
-"259","2024-10-01","Zaragoza, Doubles Main, M-ITF-ESP-37A","Nedelchev N / Orlov V","Arauzo Martinez S / Colas Sanchez A",0,0.839,0.161,1.222,4,0.795,0.205
-"260","2024-10-02","Cairns, Doubles Main, M-ITF-AUS-07A","Charlton J / Ellis B","Crowther C / Sach T",1,0.953,0.047,1.083,7,0.907,0.093
-"261","2024-10-02","Cairns, Doubles Main, M-ITF-AUS-07A","Gray T / Jones S","Cook E / Klintcharov A",1,0.404,0.596,2.5,1.5,0.362,0.638
-"262","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Bladelius H / Wallin O","Hands T / Wendelken H",0,0.331,0.669,2.5,1.5,0.362,0.638
-"263","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Kamrowski M / Szajrych J","Knaff A / Tamm K",1,0.382,0.618,1.833,1.833,0.5,0.5
-"264","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","Beauge M / Bouquet L","Branger L / Epee M",0,0.824,0.176,1.2,4.333,0.812,0.188
-"265","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","Moreno D / Seeman J","Lagarrigue L / Lapalu V",1,0.882,0.118,1.364,3,0.707,0.293
-"266","2024-10-02","Trnava, Doubles Main, M-ITF-SVK-04A","Donald M W / Kalina V","Pokorny L / Wehnelt K",0,0.166,0.834,2.75,1.4,0.317,0.683
-"267","2024-10-02","Trnava, Doubles Main, M-ITF-SVK-04A","Karol M / Lanik T","Rossi L / Rottoli L",1,0.857,0.143,1.222,4,0.795,0.205
-"268","2024-10-02","Zaragoza, Doubles Main, M-ITF-ESP-37A","Lopez Martos I / Miletich I","Bueno Gil A / Forcano I",0,0.43,0.57,2.75,1.4,0.317,0.683
-"269","2024-10-02","Villena, Spain, Doubles","Bertrand R / Paire B","Nedunchezhiyan J / Prashanth N V S",0,0.153,0.847,3.5,1.286,0.246,0.754
-"270","2024-10-02","Villena, Spain, Doubles","Pichler D / Vega Hernandez D","Chandrasekar A / Kaliyanda Poonacha N",0,0.479,0.521,2.2,1.615,0.415,0.585
-"271","2024-10-02","Villena, Spain, Doubles","Blanch D / Hernandez C","Arneodo R / Cervantes Huegun I",0,0.12,0.88,7,1.083,0.093,0.907
-"272","2024-10-02","Villena, Spain, Doubles","Geerts M /  Niklas-Salminen P","Cretu C / Royer V",0,0.796,0.204,1.533,2.375,0.62,0.38
-"273","2024-10-02","Villena, Spain, Doubles","Kym J / Molleker R","Barreto Sanchez D A / Manzanera Pertusa A",1,0.674,0.326,1.5,2.5,0.638,0.362
-"274","2024-10-02","Villena, Spain, Doubles","Paul J / Vocel M","Babic Z / Moreno De Alboran N",1,0.863,0.137,1.364,3,0.707,0.293
-"275","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hrazdil J / Poljak D","Herrmann T / Loge J",1,0.781,0.219,1.286,3.5,0.754,0.246
-"276","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Pawelski M / Szymkowiak K","Kielan S / Pieczonka F",1,0.153,0.847,2.625,1.444,0.338,0.662
-"277","2024-10-02","Kigali, Doubles Main, M-ITF-RWA-02A","Barbier Gazeu P / Bax F","Laborde A / Neuchrist M",0,0.617,0.383,1.833,1.833,0.5,0.5
-"278","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","Britto L / Saraiva Dos Santos P","Dutra Da Silva D / Pereira J",1,0.511,0.489,2,1.727,0.459,0.541
-"279","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","Braga B / Braga V","Frutos Alonso A A / Zeitune M",0,0.47,0.53,6,1.111,0.118,0.882
-"280","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","Barreiros Reyes M / Gimenez I","Cavallo F / Mouilleron Salvo M",1,0.785,0.215,1.125,5.5,0.869,0.131
-"281","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","Escurra Isnardi H J / Vergara Del Puerto M","Ribeiro E / Yamacita F",0,0.318,0.682,2.625,1.444,0.338,0.662
-"282","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","Andaloro F / Tammaro M","Gima S / Hamza Reguig S",1,0.541,0.459,1.5,2.5,0.638,0.362
-"283","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","Elamin A / Gil Garcia A","Evans G / Ross J",1,0.39,0.61,2.625,1.444,0.338,0.662
-"284","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","Rodesch C / Woodall W","Jones A / Jones M",1,0.578,0.422,1.222,4,0.795,0.205
-"285","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","Freire Da Silva A / Genier T","Muller R / Visker N",0,0.097,0.903,2.75,1.4,0.317,0.683
-"286","2024-10-02","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Kellovsky D / Krumich M","Rahmani K / Sciahbasi L",1,0.474,0.526,1.4,2.75,0.683,0.317
-"287","2024-10-02","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","De Alba Valdes R A / Sau Franco A","Elsayed A / Jones M",0,0.229,0.771,3.75,1.25,0.223,0.777
-"288","2024-10-02","Zaragoza, Doubles Main, M-ITF-ESP-37A","Arauzo Martinez S / Colas Sanchez A","Esteban Torres D / Sheyngezikht L",1,0.494,0.506,1.25,3.75,0.777,0.223
-"289","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","Iamachkine Samarina P P / Plunger M","Denolly C / Ouakaa A",0,0.145,0.855,7,1.083,0.093,0.907
-"290","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","Kumar P / Schachter N","Bianchi J J / Perez B",0,0.736,0.264,1.3,3.4,0.746,0.254
-"291","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","Lock B / Lock C J","Caripi V / Steiner M",1,0.8,0.2,1.25,3.75,0.777,0.223
-"292","2024-10-03","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Story J / Summers M","Quayle D / Zhu M",1,0.812,0.188,1.444,2.625,0.662,0.338
-"293","2024-10-03","Mouilleron-Le-Captif, France, Doubles","Debru G / Martineau M","Schnaitter J / Wallner M",0,0.259,0.741,3.25,1.333,0.272,0.728
-"294","2024-10-03","Mouilleron-Le-Captif, France, Doubles","Demoliner M / Harrison C","Haase R / Miedler L",1,0.508,0.492,2.5,1.5,0.362,0.638
-"295","2024-10-03","Mouilleron-Le-Captif, France, Doubles","Holmgren A / Ingildsen J","Stevenson D / Willis M",1,0.436,0.564,2.1,1.667,0.436,0.564
-"296","2024-10-03","Villena, Spain, Doubles","Cretu C / Royer V","Nedunchezhiyan J / Prashanth N V S",1,0.241,0.759,3.75,1.25,0.223,0.777
-"297","2024-10-03","Villena, Spain, Doubles","Izquierdo Luque R / Marrero Curbelo I","Kym J / Molleker R",0,0.384,0.616,3.25,1.333,0.272,0.728
-"298","2024-10-03","Villena, Spain, Doubles","Paul J / Vocel M","Chandrasekar A / Kaliyanda Poonacha N",0,0.718,0.282,2,1.727,0.459,0.541
-"299","2024-10-03","Villena, Spain, Doubles","Merino A / Negritu C","Arneodo R / Cervantes Huegun I",0,0.473,0.527,2.1,1.667,0.436,0.564
-"300","2024-10-03","Braga, Portugal, Doubles","Jecan M-A / Liutarevich I","Bergevi F / Veldheer M",1,0.54,0.46,2.1,1.667,0.436,0.564
-"301","2024-10-03","Braga, Portugal, Doubles","Araujo P / Domingues J","Arribage T / Cabral F",0,0.183,0.817,4,1.222,0.205,0.795
-"302","2024-10-03","Tiburon, USA, Doubles","Cash R / Tracy J","Saville L / Schoolkate T",0,0.514,0.486,1.833,1.833,0.5,0.5
-"303","2024-10-03","Tiburon, USA, Doubles","Dean T / Overbeck C E","Pearson K / Sheehy J",1,0.55,0.45,2.1,1.667,0.436,0.564
-"304","2024-10-03","Tiburon, USA, Doubles","Kiger M / Trhac P","Kypson P / Spizzirri E",0,0.618,0.382,1.833,1.833,0.5,0.5
-"305","2024-10-03","Buenos Aires 3, Argentina, Doubles","Olivieri G / Ugo Carabelli Camilo","Duncan S / Reese H",1,0.456,0.544,1.833,1.833,0.5,0.5
-"306","2024-10-03","Buenos Aires 3, Argentina, Doubles","Aboian L / Aboian V","Meligeni Alves F / Zormann M",0,0.401,0.599,2.375,1.533,0.38,0.62
-"307","2024-10-03","Buenos Aires 3, Argentina, Doubles","Carou I / Dellien H","Andreozzi G / Kestelboim M",1,0.137,0.863,2.625,1.444,0.338,0.662
-"308","2024-10-03","Buenos Aires 3, Argentina, Doubles","Gomez F A / Martinez L D","Murkel Dellien / Mena F",0,0.433,0.567,1.571,2.25,0.6,0.4
-"309","2024-10-03","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Cairo A / Steiglehner N","Nefve A / Vance J",1,0.507,0.493,3.25,1.333,0.272,0.728
-"310","2024-10-03","Cairns, Doubles Main, M-ITF-AUS-07A","Charlton J / Ellis B","Jones H / Rai A",1,0.697,0.303,1.5,2.5,0.638,0.362
-"311","2024-10-03","Cairns, Doubles Main, M-ITF-AUS-07A","Gray T / Jones S","Hulme M / Watt J",0,0.275,0.725,4.333,1.2,0.188,0.812
-"312","2024-10-03","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Kaukovalta P / Vasa E","Kamrowski M / Szajrych J",0,0.702,0.298,1.444,2.625,0.662,0.338
-"313","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","Frutos Alonso A A / Zeitune M","Falabella L A / La Serna J M",0,0.229,0.771,4.5,1.167,0.167,0.833
-"314","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","Barreiros Reyes M / Gimenez I","Basel V / Ribero F",1,0.553,0.447,1.727,2,0.541,0.459
-"315","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","Boscardin Dias P / Oliveira B","Ribeiro E / Yamacita F",0,0.354,0.646,2,1.727,0.459,0.541
-"316","2024-10-03","Nevers, Doubles Main, M-ITF-FRA-31A","Moreno D / Seeman J","Hoang A / Musitelli F",0,0.496,0.504,1.833,1.833,0.5,0.5
-"317","2024-10-03","Nevers, Doubles Main, M-ITF-FRA-31A","Branger L / Epee M","Durasovic V / Hellum Lilleengen L",0,0.148,0.852,3.4,1.3,0.254,0.746
-"318","2024-10-03","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Rapagnetta D / Tsitsipas P","Kellovsky D / Krumich M",0,0.662,0.338,3.75,1.25,0.223,0.777
-"319","2024-10-03","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Krutykh O / Sakellaridis D","Oradini G / Ovcharenko O",1,0.285,0.715,3.25,1.333,0.272,0.728
-"320","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","Beloborodko I / Poritskyy A","Pokorny L / Wehnelt K",0,0.147,0.853,4.333,1.2,0.188,0.812
-"321","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","Karol M / Lanik T","Giovannini F / Giovannini U M",1,0.974,0.026,1.05,8.5,0.938,0.062
-"322","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","Massard L / Nagel A","Braynin A / Cerny M",0,0.722,0.278,1.571,2.25,0.6,0.4
-"323","2024-10-03","Zaragoza, Doubles Main, M-ITF-ESP-37A","Kreynes B / Rating N","Bueno Gil A / Forcano I",0,0.279,0.721,3.75,1.25,0.223,0.777
-"324","2024-10-03","Zaragoza, Doubles Main, M-ITF-ESP-37A","Gimenez Sanchez E / Sanchez E","Sanchez Quilez A / Winter Lopez B",0,0.098,0.902,26,1.001,0.002,0.998
-"325","2024-10-04","Shanghai, China, Doubles","Bolelli S / Vavassori A","Machac T / Zhang Z",1,0.545,0.455,1.44,2.63,0.663,0.337
-"326","2024-10-04","Shanghai, China, Doubles","Bopanna R / Dodig I","Carreno Busta P / Martinez P",1,0.835,0.165,1.33,3.25,0.729,0.271
-"327","2024-10-04","Shanghai, China, Doubles","Cash J / Glasspool L","Ebden M / Salisbury J",1,0.417,0.583,2.1,1.67,0.436,0.564
-"328","2024-10-04","Shanghai, China, Doubles","Darderi L / Tabilo A","Tsitsipas P / Tsitsipas S",1,0.537,0.463,1.91,1.8,0.483,0.517
-"329","2024-10-04","Shanghai, China, Doubles","Doumbia S / Reboul F","Wang A / Zhou Y",0,0.822,0.178,1.07,9,0.924,0.076
-"330","2024-10-04","Shanghai, China, Doubles","Gille S / Vliegen J","Arevalo M / Pavic M",1,0.203,0.797,2.75,1.4,0.317,0.683
-"331","2024-10-04","Shanghai, China, Doubles","Gonzalez M / Molteni A","Nys H / Zielinski J",1,0.478,0.522,2.2,1.62,0.416,0.584
-"332","2024-10-04","Shanghai, China, Doubles","Gonzalez S / Roger-Vasselin E","Bublik A / Tiafoe F",1,0.883,0.117,1.44,2.63,0.663,0.337
-"333","2024-10-04","Shanghai, China, Doubles","Khachanov K / Rublev A","Skupski N / Venus M",1,0.361,0.639,2.1,1.67,0.436,0.564
-"334","2024-10-04","Shanghai, China, Doubles","Koolhof W / Mektic N","Fils A / Shelton B",1,0.802,0.198,1.25,3.75,0.777,0.223
-"335","2024-10-04","Shanghai, China, Doubles","Krajicek A / Ram R","Matos R / Melo M",1,0.576,0.424,1.73,2,0.541,0.459
-"336","2024-10-04","Shanghai, China, Doubles","Lammons N / Withrow J","Cerundolo F / Etcheverry T",1,0.918,0.082,1.33,3.25,0.729,0.271
-"337","2024-10-04","Shanghai, China, Doubles","Murray J / Peers J","Humbert U / Mannarino A",1,0.869,0.131,1.2,4.333,0.812,0.188
-"338","2024-10-04","Shanghai, China, Doubles","Pavlasek A / Rojer J-J","Heliovaara H / Patten H",1,0.253,0.747,2.75,1.4,0.317,0.683
-"339","2024-10-04","Mouilleron-Le-Captif, France, Doubles","Schnaitter J / Wallner M","Demoliner M / Harrison C",0,0.56,0.44,1.833,1.833,0.5,0.5
-"340","2024-10-04","Villena, Spain, Doubles","Chandrasekar A / Kaliyanda Poonacha N","Cretu C / Royer V",1,0.661,0.339,1.364,3,0.707,0.293
-"341","2024-10-04","Villena, Spain, Doubles","Arneodo R / Cervantes Huegun I","Kym J / Molleker R",1,0.532,0.468,1.615,2.2,0.585,0.415
-"342","2024-10-04","Braga, Portugal, Doubles","Bortolotti M / Cukierman D","Sabanov I / Sabanov M",1,0.64,0.36,1.833,1.833,0.5,0.5
-"343","2024-10-04","Braga, Portugal, Doubles","Jecan M-A / Liutarevich I","Arribage T / Cabral F",0,0.425,0.575,3.4,1.3,0.254,0.746
-"344","2024-10-04","Tiburon, USA, Doubles","Dean T / Overbeck C E","Saville L / Schoolkate T",0,0.333,0.667,5,1.143,0.147,0.853
-"345","2024-10-04","Tiburon, USA, Doubles","Kypson P / Spizzirri E","Oliveira G / Stevenson K",1,0.735,0.265,1.533,2.375,0.62,0.38
-"346","2024-10-04","Buenos Aires 3, Argentina, Doubles","Olivieri G / Ugo Carabelli Camilo","Murkel Dellien / Mena F",0,0.273,0.727,1.833,1.833,0.5,0.5
-"347","2024-10-04","Buenos Aires 3, Argentina, Doubles","Meligeni Alves F / Zormann M","Carou I / Dellien H",1,0.688,0.312,1.444,2.625,0.662,0.338
-"348","2024-10-04","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Brown A / Clark E","Borisiouk M / Dickerson R",0,0.39,0.61,2,1.727,0.459,0.541
-"349","2024-10-04","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Cairo A / Steiglehner N","Jones A / Mccormick T",0,0.492,0.508,4,1.222,0.205,0.795
-"350","2024-10-04","Cairns, Doubles Main, M-ITF-AUS-07A","Hulme M / Watt J","Falck R / Ryan Ziegann S",1,0.751,0.249,1.333,3.25,0.728,0.272
-"351","2024-10-04","Cairns, Doubles Main, M-ITF-AUS-07A","Charlton J / Ellis B","Colson T / Loof T",1,0.695,0.305,1.615,2.2,0.585,0.415
-"352","2024-10-04","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hrazdil J / Poljak D","Kamrowski M / Szajrych J",1,0.751,0.249,1.25,3.75,0.777,0.223
-"353","2024-10-04","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hands T / Wendelken H","Pawelski M / Szymkowiak K",1,0.788,0.212,1.4,2.75,0.683,0.317
-"354","2024-10-04","Kigali, Doubles Main, M-ITF-RWA-02A","Laborde A / Neuchrist M","Denolly C / Ouakaa A",1,0.223,0.777,4,1.222,0.205,0.795
-"355","2024-10-04","Kigali, Doubles Main, M-ITF-RWA-02A","Lock B / Lock C J","Bianchi J J / Perez B",1,0.749,0.251,1.3,3.4,0.746,0.254
-"356","2024-10-04","Luque, Doubles Main, M-ITF-PAR-02A","Britto L / Saraiva Dos Santos P","Barreiros Reyes M / Gimenez I",1,0.639,0.361,1.615,2.2,0.585,0.415
-"357","2024-10-04","Monastir, Doubles Main, M-ITF-TUN-52A","Elamin A / Gil Garcia A","Rodesch C / Woodall W",0,0.134,0.866,4.333,1.2,0.188,0.812
-"358","2024-10-04","Nevers, Doubles Main, M-ITF-FRA-31A","Durasovic V / Hellum Lilleengen L","Muller R / Visker N",0,0.414,0.586,1.833,1.833,0.5,0.5
-"359","2024-10-04","Nevers, Doubles Main, M-ITF-FRA-31A","Hignett L / Mackinlay J","Hoang A / Musitelli F",1,0.432,0.568,1.615,2.2,0.585,0.415
-"360","2024-10-04","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Baragiola Mordini T C / Seghetti S","Kellovsky D / Krumich M",0,0.392,0.608,7,1.083,0.093,0.907
-"361","2024-10-04","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Krutykh O / Sakellaridis D","Spadola A / Vavassori M",1,0.563,0.437,1.364,3,0.707,0.293
-"362","2024-10-04","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Ibrahim K / Maamoun K-M","Story J / Summers M",0,0.138,0.862,3.4,1.3,0.254,0.746
-"363","2024-10-04","Trnava, Doubles Main, M-ITF-SVK-04A","Karol M / Lanik T","Braynin A / Cerny M",0,0.865,0.135,1.125,5.5,0.869,0.131
-"364","2024-10-04","Trnava, Doubles Main, M-ITF-SVK-04A","Pokorny L / Wehnelt K","Jermar J / Zelenay I",1,0.693,0.307,1.286,3.5,0.754,0.246
-"365","2024-10-04","Zaragoza, Doubles Main, M-ITF-ESP-37A","Arauzo Martinez S / Colas Sanchez A","Bueno Gil A / Forcano I",1,0.628,0.372,1.4,2.75,0.683,0.317
-"366","2024-10-05","Villena, Spain, Doubles","Arneodo R / Cervantes Huegun I","Chandrasekar A / Kaliyanda Poonacha N",0,0.589,0.411,1.615,2.2,0.585,0.415
-"367","2024-10-05","Braga, Portugal, Doubles","Bortolotti M / Cukierman D","Arribage T / Cabral F",0,0.491,0.509,3,1.364,0.293,0.707
-"368","2024-10-05","Buenos Aires 3, Argentina, Doubles","Murkel Dellien / Mena F","Meligeni Alves F / Zormann M",1,0.557,0.443,2.2,1.615,0.415,0.585
-"369","2024-10-05","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","Borisiouk M / Dickerson R","Jones A / Mccormick T",0,0.383,0.617,2.2,1.615,0.415,0.585
-"370","2024-10-05","Cairns, Doubles Main, M-ITF-AUS-07A","Charlton J / Ellis B","Hulme M / Watt J",0,0.775,0.225,1.4,2.75,0.683,0.317
-"371","2024-10-05","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","Hrazdil J / Poljak D","Hands T / Wendelken H",1,0.576,0.424,1.667,2.1,0.564,0.436
-"372","2024-10-05","Kigali, Doubles Main, M-ITF-RWA-02A","Lock B / Lock C J","Laborde A / Neuchrist M",0,0.678,0.322,1.364,3,0.707,0.293
-"373","2024-10-05","Monastir, Doubles Main, M-ITF-TUN-52A","Bittoun Kouzmine C / Fomba L","Rodesch C / Woodall W",0,0.513,0.487,1.571,2.25,0.6,0.4
-"374","2024-10-05","Nevers, Doubles Main, M-ITF-FRA-31A","Hignett L / Mackinlay J","Muller R / Visker N",0,0.274,0.726,2.1,1.667,0.436,0.564
-"375","2024-10-05","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","Kellovsky D / Krumich M","Krutykh O / Sakellaridis D",0,0.508,0.492,1.571,2.25,0.6,0.4
-"376","2024-10-05","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","Story J / Summers M","Dzhavakian Y / Strombachs R",1,0.733,0.267,1.5,2.5,0.638,0.362
-"377","2024-10-05","Trnava, Doubles Main, M-ITF-SVK-04A","Braynin A / Cerny M","Pokorny L / Wehnelt K",0,0.195,0.805,3,1.364,0.293,0.707
-"378","2024-10-06","Shanghai, China, Doubles","Granollers M / Zeballos H","Reyes-Varela M A / Smith J-P",1,0.824,0.176,1.1,7,0.895,0.105
-"379","2024-10-06","Mouilleron-Le-Captif, France, Doubles","Holmgren A / Ingildsen J","Demoliner M / Harrison C",0,0.555,0.445,2.25,1.571,0.4,0.6
-"380","2024-10-07","Shanghai, China, Doubles","Bopanna R / Dodig I","Koolhof W / Mektic N",0,0.432,0.568,2.2,1.62,0.416,0.584
-"381","2024-10-07","Shanghai, China, Doubles","Krajicek A / Ram R","Gonzalez S / Roger-Vasselin E",0,0.564,0.436,1.67,2.1,0.564,0.436
-"382","2024-10-08","Valencia, Spain, Doubles","Arribage T / Cabral F","Sabanov I / Sabanov M",1,0.684,0.316,1.167,4.5,0.833,0.167
-"383","2024-10-08","Valencia, Spain, Doubles","Cornea V V / Molchanov D","Alvarez Varona N / Zapata Miralles B",1,0.938,0.062,1.364,3,0.707,0.293
-"384","2024-10-08","Valencia, Spain, Doubles","Drzewiecki K / Matuszewski P","Nouza P / Rikl P",1,0.29,0.71,2.25,1.571,0.4,0.6
-"385","2024-10-08","Valencia, Spain, Doubles","Goldhoff G / Romboli F","Martos Gornes S / Walkow S",0,0.635,0.365,1.667,2.1,0.564,0.436
-"386","2024-10-08","Valencia, Spain, Doubles","Kirkov V / Nava E","Nedunchezhiyan J / Prashanth N V S",0,0.566,0.434,1.833,1.833,0.5,0.5
-"387","2024-10-08","Valencia, Spain, Doubles","Lopez Montagud C / Taberner C","Jecan M-A / Liutarevich I",0,0.337,0.663,2.625,1.444,0.338,0.662
-"388","2024-10-08","Valencia, Spain, Doubles","Pellegrino A / Vega Hernandez D","Bortolotti M / Ricca G",0,0.371,0.629,1.667,2.1,0.564,0.436
-"389","2024-10-08","Hangzhou, China, Doubles","Alcantara F C / Hsu Y H","Bollipalli R C / Kadhe A",0,0.509,0.491,3,1.364,0.293,0.707
-"390","2024-10-08","Hangzhou, China, Doubles","Bakshi A / Ursu V","Tang S / Zheng Z",0,0.577,0.423,1.364,3,0.707,0.293
-"391","2024-10-08","Hangzhou, China, Doubles","Bayldon B / Reynolds F","Lock B / Mccabe J",0,0.466,0.534,1.615,2.2,0.585,0.415
-"392","2024-10-08","Hangzhou, China, Doubles","Blanchet U / Harris B","Marchenko I / Yevseyev D",1,0.561,0.439,1.5,2.5,0.638,0.362
-"393","2024-10-08","Hangzhou, China, Doubles","Bolt A / Walton A","Matsui T / Ramanathan R",1,0.561,0.439,2,1.727,0.459,0.541
-"394","2024-10-08","Hangzhou, China, Doubles","King E / Stalder R","Fancutt T / Shimizu Y",0,0.463,0.537,1.4,2.75,0.683,0.317
-"395","2024-10-08","Hangzhou, China, Doubles","Rodriguez C / Romios M C","Ho R / Paris J",1,0.672,0.328,1.727,2,0.541,0.459
-"396","2024-10-08","Hangzhou, China, Doubles","Sun F / Te R","Statham R / Svajda Z",1,0.705,0.295,1.667,2.1,0.564,0.436
-"397","2024-10-08","Roanne, France, Doubles","Balaji N S / Nedovyesov A","Blancaneaux G / Lamasine T",1,0.613,0.387,1.286,3.5,0.754,0.246
-"398","2024-10-08","Roanne, France, Doubles","Barrientos N / Pel D","Chidekh C / Sanchez L",1,0.83,0.17,1.3,3.4,0.746,0.254
-"399","2024-10-08","Roanne, France, Doubles","Demoliner M / Harrison C","Bouquier A / Papamalamis T",1,0.731,0.269,1.167,4.5,0.833,0.167
-"400","2024-10-08","Roanne, France, Doubles","Escobar G / Hidalgo D","Paul J / Vocel M",0,0.412,0.588,1.4,2.75,0.683,0.317
-"401","2024-10-08","Roanne, France, Doubles","Frantzen C / Jebens H","Barrere G / Eysseric J",0,0.66,0.34,1.5,2.5,0.638,0.362
-"402","2024-10-08","Roanne, France, Doubles","Schnaitter J / Wallner M","Haase R / Miedler L",0,0.594,0.406,3,1.364,0.293,0.707
-"403","2024-10-08","Villa Maria, Argentina, Doubles","Boyer T / Ficovich J P","Arias B / Zeballos F",0,0.351,0.649,2.625,1.444,0.338,0.662
-"404","2024-10-08","Villa Maria, Argentina, Doubles","Britto L / Saraiva Dos Santos P","Farjat T / Lingua Lavallen A L",1,0.596,0.404,1.533,2.375,0.62,0.38
-"405","2024-10-08","Villa Maria, Argentina, Doubles","Del Pino M / La Serna J M","Duncan S / Reese H",0,0.612,0.388,3,1.364,0.293,0.707
-"406","2024-10-08","Villa Maria, Argentina, Doubles","Luz O / Zormann M","Aboian L / Aboian V",1,0.68,0.32,1.333,3.25,0.728,0.272
-"407","2024-10-08","Villa Maria, Argentina, Doubles","Murkel Dellien / Mena F","Carou I / Ugo Carabelli Camilo",1,0.643,0.357,1.333,3.25,0.728,0.272
-"408","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Colson T / Loof T","Host T / Kose C",1,0.868,0.132,1.05,8.5,0.938,0.062
-"409","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Dumitru M / Sen D","Falck R / Ryan Ziegann S",0,0.329,0.671,8.5,1.05,0.062,0.938
-"410","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Dyer F / Pade C","Klintcharov A / Rai A",0,0.181,0.819,8.5,1.05,0.062,0.938
-"411","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Charlton J / Ellis B","Gray T / Jones S",1,0.907,0.093,1.1,6.5,0.893,0.107
-"412","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Hall F / Sach T L","Adam-Gedge Z / Aguiard E",1,0.593,0.407,1.833,1.833,0.5,0.5
-"413","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Hulme M / Watt J","Vickery L / Winter H",1,0.874,0.126,1.2,4.333,0.812,0.188
-"414","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","Inui Y / Takamisawa T","Delaney J / Delaney J",0,0.156,0.844,5,1.143,0.147,0.853
-"415","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Kielan S / Pieczonka F","Bajurko A / Simundza J",1,0.828,0.172,1.3,3.4,0.746,0.254
-"416","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Jermar J / Zelenay I","Herrmann T / Vincent A",1,0.791,0.209,1.286,3.5,0.754,0.246
-"417","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Nowacki J / Piasek I","Hrazdil J / Szajrych J",0,0.08,0.92,13,1.012,0.019,0.981
-"418","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Agwi M / Mischker F","Molder M / Tamm K",1,0.591,0.409,1.833,1.833,0.5,0.5
-"419","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","Barbier Gazeu P / Covato M","Caripi V / Steiner M",1,0.387,0.613,3,1.364,0.293,0.707
-"420","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","Javia D / Reddy R","Neuchrist M / Ramskogler G",0,0.259,0.741,2.75,1.4,0.317,0.683
-"421","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","Iamachkine Samarina P P / Plunger M","Desousa J / Van Den Honert V",0,0.543,0.457,1.3,3.4,0.746,0.254
-"422","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","Schachter N / Sinha N K","Sibanda E D / Sibanda M D A",1,0.836,0.164,1.071,7.5,0.918,0.082
-"423","2024-10-08","Louisville, Doubles Main, M-ITF-USA-29A","Mercer J / Monday J","Bangoura S / Martin D",1,0.627,0.373,1.4,2.75,0.683,0.317
-"424","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","Bibiloni M A / Hollender N","Lumsden E / Pourroy L",0,0.13,0.87,8.5,1.05,0.062,0.938
-"425","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","Klok D / Oplustil P","Nagoudi A / Smiej Y",0,0.526,0.474,1.333,3.25,0.728,0.272
-"426","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","Rodesch C / Woodall W","Gima S / Sallay P",1,0.633,0.367,1.286,3.5,0.754,0.246
-"427","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","Campese C / Morandais J-C","Dell Elba V / Faisal G A",1,0.455,0.545,1.4,2.75,0.683,0.317
-"428","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","Jones A / Jones M","Veldkamp Y / Wagenaar L",1,0.907,0.093,1.333,3.25,0.728,0.272
-"429","2024-10-08","Pontevedra, Doubles Main, M-ITF-ESP-42A","Drayton T / Hamza Reguig S","Benchetrit E / Nikles J",0,0.124,0.876,5,1.143,0.147,0.853
-"430","2024-10-08","Pontevedra, Doubles Main, M-ITF-ESP-42A","Pascual Ferra R / Tarrio Ponte A","Palan D / Zhukov M",0,0.39,0.61,3.5,1.286,0.246,0.754
-"431","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Blazka D / Gengel M","Butulija B / Ibrahim K",0,0.53,0.47,3.4,1.3,0.254,0.746
-"432","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Bertran P / Mbithi M","De Alba Valdes R A / Sau Franco A",1,0.611,0.389,1.25,3.75,0.777,0.223
-"433","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Ehrenschneider N / Gayk C","Elsayed A / Jones M",0,0.417,0.583,5,1.143,0.147,0.853
-"434","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Hannestad B / Kikuchi Y","Dalmasso G / Larue L",1,0.801,0.199,1.25,3.75,0.777,0.223
-"435","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Augunas J / Portugal J","Marques G / Rocha F",0,0.251,0.749,5,1.143,0.147,0.853
-"436","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Domingues J / Stice T","Araujo P / Gadamauri B",1,0.541,0.459,2.625,1.444,0.338,0.662
-"437","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Batista D / Stoliar I","Banthia S / Sharan D",0,0.212,0.788,3.5,1.286,0.246,0.754
-"438","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Donski A / Pereira T","Guimaraes F / Valdoleiros G",1,0.874,0.126,1.02,11,0.971,0.029
-"439","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Fernandez Flores D / Zhu M","Hermans M / Vale D",1,0.525,0.475,3.25,1.333,0.272,0.728
-"440","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","Marques D / Turriziani Alvarez A","Fomin S / Seeman J",1,0.382,0.618,2.1,1.667,0.436,0.564
-"441","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","Cook E / Gaal C","Birrell C / Court J",1,0.499,0.501,1.571,2.25,0.6,0.4
-"442","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Bladelius H / Volpi G","Jedrzejczak J / Zaorski L",1,0.526,0.474,1.25,3.75,0.777,0.223
-"443","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Faucon R / Valsecchi P","Brunclik P / Kalina V",0,0.162,0.838,2.75,1.4,0.317,0.683
-"444","2024-10-09","Shanghai, China, Doubles","Behar A / Galloway R","Cash J / Glasspool L",1,0.33,0.67,2.2,1.62,0.416,0.584
-"445","2024-10-09","Shanghai, China, Doubles","Darderi L / Tabilo A","Pavlasek A / Rojer J-J",0,0.472,0.528,2.63,1.44,0.337,0.663
-"446","2024-10-09","Shanghai, China, Doubles","Granollers M / Zeballos H","Murray J / Peers J",0,0.679,0.321,1.44,2.63,0.663,0.337
-"447","2024-10-09","Shanghai, China, Doubles","Bolelli S / Vavassori A","Wang A / Zhou Y",1,0.847,0.153,1.13,6,0.87,0.13
-"448","2024-10-09","Fairfield, USA, Doubles","Fuchs Z / Thayne W","Harper P / Kiger M",1,0.311,0.689,2.75,1.4,0.317,0.683
-"449","2024-10-09","Fairfield, USA, Doubles","Oliveira G / Stevenson K","Pearson K / Sheehy J",1,0.348,0.652,1.833,1.833,0.5,0.5
-"450","2024-10-09","Fairfield, USA, Doubles","Cash R / Tracy J","Daniell M / Hach Verdugo H",0,0.83,0.17,1.4,2.75,0.683,0.317
-"451","2024-10-09","Fairfield, USA, Doubles","Hilderbrand T / Lawson A","Roveri Sidney G / Whiting T",1,0.673,0.327,1.364,3,0.707,0.293
-"452","2024-10-09","Fairfield, USA, Doubles","Pannu K / Smith K","Puttergill C / Saville L",1,0.2,0.8,3.25,1.333,0.272,0.728
-"453","2024-10-09","Fairfield, USA, Doubles","Langmo C / Tomic B","Boitan G A / Kuzuhara B",0,0.431,0.569,1.833,1.833,0.5,0.5
-"454","2024-10-09","Fairfield, USA, Doubles","Seggerman R / Trhac P","Kodat T A / Martin A",1,0.802,0.198,1.25,3.75,0.777,0.223
-"455","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","Hall F / Sach T L","Klintcharov A / Rai A",0,0.168,0.832,3.25,1.333,0.272,0.728
-"456","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","Hulme M / Watt J","Falck R / Ryan Ziegann S",1,0.786,0.214,1.222,4,0.795,0.205
-"457","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","Baadi T / Roux E","Arseneault M / Arseneault N",0,0.426,0.574,3.5,1.286,0.246,0.754
-"458","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","Hammond L / Kozlov B","Thompkins J / Vega L",1,0.855,0.145,1.444,2.625,0.662,0.338
-"459","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","Draxl L / Harper C","Faragcao A / Peck J",1,0.873,0.127,1.025,10.5,0.965,0.035
-"460","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","George B T / Tudorica A N","Maloney P / Wessels L",1,0.159,0.841,4,1.222,0.205,0.795
-"461","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","Ganesan A / Vithoontien L","Aguilar J C M / Boulais J",0,0.126,0.874,3.4,1.3,0.254,0.746
-"462","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","Muamba N / Wallart E","Benson M / Kuhar M",1,0.442,0.558,1.833,1.833,0.5,0.5
-"463","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Kielan S / Pieczonka F","Agwi M / Mischker F",0,0.724,0.276,1.5,2.5,0.638,0.362
-"464","2024-10-09","Kampala, Doubles Main, M-ITF-UGA-02A","Bianchi J J / Perez B","Desousa J / Van Den Honert V",1,0.586,0.414,1.286,3.5,0.754,0.246
-"465","2024-10-09","Kampala, Doubles Main, M-ITF-UGA-02A","Schachter N / Sinha N K","Bieldiugin T / Laborde A",1,0.692,0.308,1.286,3.5,0.754,0.246
-"466","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","Horve L / Kim A","Mercer J / Monday J",0,0.34,0.66,2.1,1.667,0.436,0.564
-"467","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","Altamirano C / Hadigian E","Mayew W / Salle F",1,0.507,0.493,1.571,2.25,0.6,0.4
-"468","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","Johns G / Stepanov R","Chopra K / Thomson M",0,0.709,0.291,1.4,2.75,0.683,0.317
-"469","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","Martinez A / Mccormick T","Rybakov A / Vance J",1,0.781,0.219,2.2,1.615,0.415,0.585
-"470","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","Breysach M / Ghibaudo A","Jones A / Vance J",1,0.756,0.244,2.1,1.667,0.436,0.564
-"471","2024-10-09","Monastir, Doubles Main, M-ITF-TUN-53A","Campese C / Morandais J-C","Rodesch C / Woodall W",0,0.054,0.946,7,1.083,0.093,0.907
-"472","2024-10-09","Monastir, Doubles Main, M-ITF-TUN-53A","Jones A / Jones M","Nagoudi A / Smiej Y",1,0.768,0.232,1.333,3.25,0.728,0.272
-"473","2024-10-09","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Butulija B / Ibrahim K","Elsayed A / Jones M",1,0.174,0.826,2.625,1.444,0.338,0.662
-"474","2024-10-09","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Hannestad B / Kikuchi Y","Binda A / Bozemoj B",1,0.601,0.399,2.2,1.615,0.415,0.585
-"475","2024-10-10","Edmonton, Doubles Main, M-ITF-CAN-01A","Kask M U / Mehta K","Fishback R / Koons H",0,0.391,0.609,5,1.143,0.147,0.853
-"476","2024-10-10","Kampala, Doubles Main, M-ITF-UGA-02A","Kumaran B N / Nandal Y","Neuchrist M / Ramskogler G",0,0.119,0.881,7,1.083,0.093,0.907
-"477","2024-10-10","Pontevedra, Doubles Main, M-ITF-ESP-42A","Pedrico Kravtsov A / Segado Esteve R","Demin Y / Radulov I",0,0.58,0.42,4,1.222,0.205,0.795
-"478","2024-10-10","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Agafonov E / Simakin I","Krajci M / Michalik R",1,0.903,0.097,1.083,7,0.907,0.093
-"479","2024-10-10","Sintra, Doubles Main, M-ITF-POR-22A","Marques G / Rocha F","Banthia S / Sharan D",0,0.392,0.608,2.5,1.5,0.362,0.638
-"480","2024-10-10","Shanghai, China, Doubles","Koolhof W / Mektic N","Lammons N / Withrow J",1,0.55,0.45,1.91,1.8,0.483,0.517
-"481","2024-10-10","Shanghai, China, Doubles","Gonzalez S / Roger-Vasselin E","Behar A / Galloway R",1,0.616,0.384,1.73,2,0.541,0.459
-"482","2024-10-10","Shanghai, China, Doubles","Murray J / Peers J","Pavlasek A / Rojer J-J",0,0.609,0.391,1.73,2,0.541,0.459
-"483","2024-10-10","Shanghai, China, Doubles","Bolelli S / Vavassori A","Gonzalez M / Molteni A",0,0.659,0.341,1.4,2.75,0.683,0.317
-"484","2024-10-10","Valencia, Spain, Doubles","Arribage T / Cabral F","Martos Gornes S / Walkow S",1,0.785,0.215,1.25,3.75,0.777,0.223
-"485","2024-10-10","Valencia, Spain, Doubles","Bortolotti M / Ricca G","Drzewiecki K / Matuszewski P",0,0.521,0.479,2.25,1.571,0.4,0.6
-"486","2024-10-10","Valencia, Spain, Doubles","Cornea V V / Molchanov D","Merino A / Negritu C",0,0.575,0.425,1.533,2.375,0.62,0.38
-"487","2024-10-10","Valencia, Spain, Doubles","Jecan M-A / Liutarevich I","Nedunchezhiyan J / Prashanth N V S",0,0.532,0.468,2.25,1.571,0.4,0.6
-"488","2024-10-10","Fairfield, USA, Doubles","Boitan G A / Kuzuhara B","Pannu K / Smith K",1,0.417,0.583,2.375,1.533,0.38,0.62
-"489","2024-10-10","Fairfield, USA, Doubles","Oliveira G / Stevenson K","Daniell M / Hach Verdugo H",1,0.409,0.591,3,1.364,0.293,0.707
-"490","2024-10-10","Fairfield, USA, Doubles","Hilderbrand T / Lawson A","Fuchs Z / Thayne W",1,0.725,0.275,1.25,3.75,0.777,0.223
-"491","2024-10-10","Fairfield, USA, Doubles","Seggerman R / Trhac P","Popko D / Zakharov A",1,0.866,0.134,1.143,5,0.853,0.147
-"492","2024-10-10","Hangzhou, China, Doubles","Blanchet U / Harris B","Bollipalli R C / Kadhe A",1,0.239,0.761,2.625,1.444,0.338,0.662
-"493","2024-10-10","Hangzhou, China, Doubles","Fancutt T / Shimizu Y","Lock B / Mccabe J",1,0.614,0.386,1.727,2,0.541,0.459
-"494","2024-10-10","Hangzhou, China, Doubles","Rodriguez C / Romios M C","Tang S / Zheng Z",1,0.68,0.32,1.1,6.5,0.893,0.107
-"495","2024-10-10","Hangzhou, China, Doubles","Sun F / Te R","Bolt A / Walton A",1,0.483,0.517,3.75,1.25,0.223,0.777
-"496","2024-10-10","Roanne, France, Doubles","Holmgren A / Ingildsen J","Haase R / Miedler L",0,0.577,0.423,2.5,1.5,0.362,0.638
-"497","2024-10-10","Roanne, France, Doubles","Balaji N S / Nedovyesov A","Demoliner M / Harrison C",1,0.569,0.431,1.615,2.2,0.585,0.415
-"498","2024-10-10","Roanne, France, Doubles","Barrere G / Eysseric J","Paul J / Vocel M",0,0.381,0.619,1.571,2.25,0.6,0.4
-"499","2024-10-10","Villa Maria, Argentina, Doubles","Britto L / Saraiva Dos Santos P","Arias B / Zeballos F",0,0.471,0.529,3.5,1.286,0.246,0.754
-"500","2024-10-10","Villa Maria, Argentina, Doubles","Luz O / Zormann M","Alves M / Kestelboim M",1,0.657,0.343,1.333,3.25,0.728,0.272
-"501","2024-10-10","Villa Maria, Argentina, Doubles","Sakamoto P / Villanueva G","Duncan S / Reese H",1,0.508,0.492,2.75,1.4,0.317,0.683
-"502","2024-10-10","Villa Maria, Argentina, Doubles","Casanova H / Rodriguez Taverna S","Murkel Dellien / Mena F",1,0.333,0.667,2.2,1.615,0.415,0.585
-"503","2024-10-10","Cairns, Doubles Main, M-ITF-AUS-08A","Cook E / Gaal C","Delaney J / Delaney J",0,0.205,0.795,5,1.143,0.147,0.853
-"504","2024-10-10","Edmonton, Doubles Main, M-ITF-CAN-01A","Hammond L / Kozlov B","Lieberman H / Vasser O",1,0.718,0.282,1.571,2.25,0.6,0.4
-"505","2024-10-10","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Jermar J / Zelenay I","Bladelius H / Volpi G",1,0.706,0.294,1.333,3.25,0.728,0.272
-"506","2024-10-10","Louisville, Doubles Main, M-ITF-USA-29A","Breysach M / Ghibaudo A","Martinez A / Mccormick T",1,0.296,0.704,2.625,1.444,0.338,0.662
-"507","2024-10-10","Louisville, Doubles Main, M-ITF-USA-29A","Chopra K / Thomson M","Altamirano C / Hadigian E",1,0.506,0.494,1.5,2.5,0.638,0.362
-"508","2024-10-10","Monastir, Doubles Main, M-ITF-TUN-53A","Eichenseher D / Prechtel S","Lumsden E / Pourroy L",0,0.355,0.645,7,1.083,0.093,0.907
-"509","2024-10-11","Valencia, Spain, Doubles","Merino A / Negritu C","Arribage T / Cabral F",1,0.334,0.666,4.333,1.2,0.188,0.812
-"510","2024-10-11","Valencia, Spain, Doubles","Nedunchezhiyan J / Prashanth N V S","Drzewiecki K / Matuszewski P",0,0.479,0.521,1.727,2,0.541,0.459
-"511","2024-10-11","Fairfield, USA, Doubles","Oliveira G / Stevenson K","Boitan G A / Kuzuhara B",0,0.509,0.491,1.727,2,0.541,0.459
-"512","2024-10-11","Hangzhou, China, Doubles","Fancutt T / Shimizu Y","Rodriguez C / Romios M C",1,0.549,0.451,2.2,1.615,0.415,0.585
-"513","2024-10-11","Hangzhou, China, Doubles","Sun F / Te R","Blanchet U / Harris B",1,0.629,0.371,1.833,1.833,0.5,0.5
-"514","2024-10-11","Roanne, France, Doubles","Haase R / Miedler L","Barrientos N / Pel D",0,0.502,0.498,1.364,3,0.707,0.293
-"515","2024-10-11","Roanne, France, Doubles","Paul J / Vocel M","Balaji N S / Nedovyesov A",1,0.495,0.505,2.5,1.5,0.362,0.638
-"516","2024-10-11","Cairns, Doubles Main, M-ITF-AUS-08A","Klintcharov A / Rai A","Delaney J / Delaney J",0,0.533,0.467,2.25,1.571,0.4,0.6
-"517","2024-10-11","Cairns, Doubles Main, M-ITF-AUS-08A","Colson T / Loof T","Hulme M / Watt J",1,0.568,0.432,1.833,1.833,0.5,0.5
-"518","2024-10-11","Edmonton, Doubles Main, M-ITF-CAN-01A","Fishback R / Koons H","George B T / Tudorica A N",0,0.574,0.426,2.2,1.615,0.415,0.585
-"519","2024-10-11","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Agwi M / Mischker F","Jermar J / Zelenay I",0,0.39,0.61,2.375,1.533,0.38,0.62
-"520","2024-10-11","Kampala, Doubles Main, M-ITF-UGA-02A","Iradukunda G O / Ouakaa A","Neuchrist M / Ramskogler G",1,0.468,0.532,2.5,1.5,0.362,0.638
-"521","2024-10-11","Kampala, Doubles Main, M-ITF-UGA-02A","Schachter N / Sinha N K","Bianchi J J / Perez B",1,0.635,0.365,1.5,2.5,0.638,0.362
-"522","2024-10-11","Louisville, Doubles Main, M-ITF-USA-29A","Maginley H J / Zhu E","Breysach M / Ghibaudo A",1,0.403,0.597,2.1,1.667,0.436,0.564
-"523","2024-10-11","Louisville, Doubles Main, M-ITF-USA-29A","Chopra K / Thomson M","Mercer J / Monday J",0,0.29,0.71,2.2,1.615,0.415,0.585
-"524","2024-10-11","Monastir, Doubles Main, M-ITF-TUN-53A","Lumsden E / Pourroy L","Jones A / Jones M",1,0.505,0.495,1.533,2.375,0.62,0.38
-"525","2024-10-11","Monastir, Doubles Main, M-ITF-TUN-53A","Rodesch C / Woodall W","Elamin A / Gil Garcia A",1,0.922,0.078,1.167,4.5,0.832,0.168
-"526","2024-10-11","Pontevedra, Doubles Main, M-ITF-ESP-42A","Hudd E / Whitehouse M","Demin Y / Radulov I",0,0.722,0.278,1.5,2.5,0.638,0.362
-"527","2024-10-11","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","Hannestad B / Kikuchi Y","Butulija B / Ibrahim K",0,0.838,0.162,1.571,2.25,0.6,0.4
-"528","2024-10-11","Sintra, Doubles Main, M-ITF-POR-22A","Fernandez Flores D / Zhu M","Banthia S / Sharan D",0,0.334,0.666,4.333,1.2,0.188,0.812
-"529","2024-10-12","Shanghai, China, Doubles","Pavlasek A / Rojer J-J","Gonzalez M / Molteni A",0,0.457,0.543,1.83,1.83,0.5,0.5
-"530","2024-10-12","Edmonton, Doubles Main, M-ITF-CAN-01A","Draxl L / Harper C","Hammond L / Kozlov B",1,0.646,0.354,1.125,5.5,0.869,0.131
-"531","2024-10-12","Valencia, Spain, Doubles","Merino A / Negritu C","Drzewiecki K / Matuszewski P",1,0.462,0.538,2.25,1.571,0.4,0.6
-"532","2024-10-12","Fairfield, USA, Doubles","Seggerman R / Trhac P","Boitan G A / Kuzuhara B",1,0.821,0.179,1.2,4.333,0.812,0.188
-"533","2024-10-12","Hangzhou, China, Doubles","Fancutt T / Shimizu Y","Sun F / Te R",0,0.7,0.3,1.571,2.25,0.6,0.4
-"534","2024-10-12","Roanne, France, Doubles","Paul J / Vocel M","Barrientos N / Pel D",0,0.615,0.385,2.25,1.571,0.4,0.6
-"535","2024-10-12","Cairns, Doubles Main, M-ITF-AUS-08A","Colson T / Loof T","Delaney J / Delaney J",1,0.678,0.322,1.833,1.833,0.5,0.5
-"536","2024-10-12","Edmonton, Doubles Main, M-ITF-CAN-01A","George B T / Tudorica A N","Aguilar J C / Boulais J",1,0.13,0.87,3.75,1.25,0.223,0.777
-"537","2024-10-12","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","Jermar J / Zelenay I","Bastiaansen P / Wassermann D",0,0.69,0.31,1.444,2.625,0.662,0.338
-"538","2024-10-12","Kampala, Doubles Main, M-ITF-UGA-02A","Schachter N / Sinha N K","Iradukunda G O / Ouakaa A",0,0.434,0.566,1.667,2.1,0.564,0.436
-"539","2024-10-12","Louisville, Doubles Main, M-ITF-USA-29A","Mercer J / Monday J","Maginley H J / Zhu E",1,0.747,0.253,1.5,2.5,0.638,0.362
-"540","2024-10-12","Pontevedra, Doubles Main, M-ITF-ESP-42A","Demin Y / Radulov I","Izquierdo Luque R / Marrero Curbelo I",0,0.345,0.655,2.25,1.571,0.4,0.6
-"541","2024-10-12","S. Margherita di Pula, Doubles Main, M-ITF-ITA-32A","Milev Y / Nesterov P","Spadola A / Vavassori M",1,0.722,0.278,1.222,4,0.795,0.205
+"","date","tournaments","tier","home","away","winner","pb_h","pb_a","home_odds","away_odds","pb_odds_h","pb_odds_a"
+"1","2024-09-24","Chengdu, China, Doubles","ATP/CH","Doumbia S / Reboul F","Bhambri Y / Olivetti A",1,0.511,0.489,1.833,1.833,0.5,0.5
+"2","2024-09-24","Hangzhou, China, Doubles","ATP/CH","Frantzen C / Jebens H","Nedunchezhiyan J / Prashanth N V S",0,0.645,0.355,1.3,3.4,0.746,0.254
+"3","2024-09-24","Beijing, China, Doubles, Qualifying","ATP/CH","Murray J / Peers J","Jin Y / Li Z",1,0.924,0.076,1.025,17,0.97,0.03
+"4","2024-09-24","Beijing, China, Doubles, Qualifying","ATP/CH","Escobar G / Hidalgo D","Reyes-Varela M A / Smith J-P",1,0.533,0.467,1.833,1.833,0.5,0.5
+"5","2024-09-24","Tokyo, Japan, Doubles, Qualifying","ATP/CH","Barrientos N / Mansouri S","Erler A / Middelkoop M",0,0.491,0.509,1.833,1.833,0.5,0.5
+"6","2024-09-24","Orleans, France, Doubles","ATP/CH","Broom C / Willis M","Grenier H / Sanchez L",0,0.853,0.147,1.25,3.75,0.777,0.223
+"7","2024-09-24","Orleans, France, Doubles","ATP/CH","Bertrand R / Bouquier A","Guinard M / Jacq G",0,0.193,0.807,3.75,1.25,0.223,0.777
+"8","2024-09-24","Charleston, USA, Doubles","ATP/CH","Harper P / Trhac P","Andrade A / Shelbayh A",0,0.446,0.554,1.833,1.833,0.5,0.5
+"9","2024-09-24","Charleston, USA, Doubles","ATP/CH","Spizzirri E / Zink T","Harrison C / Tracy J",1,0.519,0.481,2.2,1.615,0.415,0.585
+"10","2024-09-24","Nonthaburi 4, Thailand, Doubles","ATP/CH","Yevseyev D / Zhukayev B","Rodriguez C / Romios M C",0,0.136,0.864,2.75,1.4,0.317,0.683
+"11","2024-09-24","Nonthaburi 4, Thailand, Doubles","ATP/CH","Bollipalli R C / Kadhe A","Chaiyarin C / Noikor N",1,0.96,0.04,1.04,9,0.948,0.052
+"12","2024-09-24","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Midon L / Zeitune G","Cundom J / Hess S",1,0.806,0.194,1.444,2.625,0.662,0.338
+"13","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Hands T / Wendelken H","Koistila Larsson K / Kumar M",1,0.885,0.115,1.083,7,0.907,0.093
+"14","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Hendrikx J / Rottgering M","Eriksson S / Tudorica A N",0,0.579,0.421,2.75,1.4,0.317,0.683
+"15","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Durasovic V / Hellum Lilleengen L","Dellavedova M / Staley J",1,0.929,0.071,1.286,3.5,0.754,0.246
+"16","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Gadamauri B / Matusevich A","Grevelius E / Heinonen A",0,0.487,0.513,1.571,2.25,0.6,0.4
+"17","2024-09-24","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Munkhammar P / Stidell F","Geerts M / Wiskandt M",0,0.243,0.757,7.5,1.071,0.082,0.918
+"18","2024-09-24","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Tang S / Zheng Z","Zhao R / Zheng Y",1,0.95,0.05,1.083,7,0.907,0.093
+"19","2024-09-24","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Banthia S / Ganta S K R","Ananth Mani M / Kumaran B N",1,0.879,0.121,1.1,6.5,0.893,0.107
+"20","2024-09-24","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Caripi V / Steiner M","Denolly C / Ouakaa A",0,0.195,0.805,3.5,1.286,0.246,0.754
+"21","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Beaupain S / Demanet E","Nagoudi A / Smiej Y",1,0.714,0.286,1.05,8.5,0.938,0.062
+"22","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Ciavarella N / Minighini D","Alkaya M / Ozdemir S M",0,0.355,0.645,2.5,1.5,0.362,0.638
+"23","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Jones A / Jones M","Andaloro F / Tammaro M",0,0.614,0.386,1.833,1.833,0.5,0.5
+"24","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Bittoun Kouzmine C / Zgirovsky A","Elamin A / Mashni Z",1,0.888,0.112,1.125,5.5,0.869,0.131
+"25","2024-09-24","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Jorquera E / Sun Z","Krolo F / Marysko V",0,0.364,0.636,7.5,1.071,0.082,0.918
+"26","2024-09-24","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Dessi M / Dessi N","Ocleppo J / Oradini G",0,0.086,0.914,8,1.062,0.073,0.927
+"27","2024-09-24","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Chvets V / Mishkin K","Bosio G / Perin R",0,0.549,0.451,2.1,1.667,0.436,0.564
+"28","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Markiewicz J / Shaw M","Cowley R / Hignett L",1,0.577,0.423,1.5,2.5,0.638,0.362
+"29","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Pedrico Kravtsov A / Segado Esteve R","Atlangeriev B / Sheyngezikht L",1,0.62,0.38,1.615,2.2,0.585,0.415
+"30","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Bueno Gil A / Forcano I","Sanchez Quilez A / Winter Lopez B",0,0.141,0.859,6,1.111,0.118,0.882
+"31","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Handel T / Heller P","Herberg Amoros A / Marti Pujolras A",1,0.894,0.106,1.143,5,0.853,0.147
+"32","2024-09-24","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Nijboer R / Nikles J","Alvarez Varona N / Lopez Morillo I",1,0.772,0.228,1.444,2.625,0.662,0.338
+"33","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Ivanov S / Kountourakis I","Blazka D / Gengel M",1,0.401,0.599,1.25,3.75,0.777,0.223
+"34","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Bassem Sobhy M / Zakaryia F","Binda A / Zhu M",1,0.431,0.569,1.833,1.833,0.5,0.5
+"35","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Elsayed A / Ibrahim K","Furlanetto M / Giunta M",0,0.545,0.455,1.667,2.1,0.564,0.436
+"36","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","El Sallaly A / Stanke C","Kielan S / Pieczonka F",0,0.102,0.898,3.5,1.286,0.246,0.754
+"37","2024-09-24","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Castagnola L / Fondriest M","Alabdullah B / Alshati A",1,0.8,0.2,1.05,8.5,0.938,0.062
+"38","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Coman M A / Kobierski J","Bonsach Ganley K / Torres Ramis M",0,0.694,0.306,1.444,2.625,0.662,0.338
+"39","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Pieleanu R T / Wazny A","Ferrari F / Valle F",1,0.447,0.553,2.75,1.4,0.317,0.683
+"40","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Pinheiro Da Cruz Junior G / Raul Theophilo Bruno De La Vega R","Onofrei M C / Uta D",1,0.566,0.434,4.5,1.167,0.167,0.833
+"41","2024-09-24","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Orlov V / Pavel B","Martin Manzano J C / Zanada E",0,0.763,0.237,1.25,3.75,0.777,0.223
+"42","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Catry R / Nagel A","De Jonge D / Opitz J",1,0.738,0.262,1.833,1.833,0.5,0.5
+"43","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Cerny M / Paty D","Ruehl T / Wehnelt K",0,0.27,0.73,2.375,1.533,0.38,0.62
+"44","2024-09-24","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Schell N / Visker N","Ghazouani Durand Y / Massard L",1,0.518,0.482,2.1,1.667,0.436,0.564
+"45","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Compagnucci T / Fiorentini A","Horve L / Okonkwo O",0,0.101,0.899,3.25,1.333,0.272,0.728
+"46","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Basic M / Nedic A","Lulic N / Stefanovic M",1,0.898,0.102,1.04,9,0.948,0.052
+"47","2024-09-24","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Beckley A / Paz J P","Chepelev A / Erhard M",1,0.584,0.416,1.333,3.25,0.728,0.272
+"48","2024-09-25","Beijing, China, Doubles, Qualifying","ATP/CH","Murray J / Peers J","Escobar G / Hidalgo D",1,0.626,0.374,1.4,2.75,0.683,0.317
+"49","2024-09-25","Orleans, France, Doubles","ATP/CH","Arends S / Johnson L","Pichler D / Rodionov J",1,0.627,0.373,1.3,3.4,0.746,0.254
+"50","2024-09-25","Orleans, France, Doubles","ATP/CH","Chandrasekar A / Kaliyanda Poonacha N","Haase R / Miedler L",0,0.441,0.559,3.25,1.333,0.272,0.728
+"51","2024-09-25","Orleans, France, Doubles","ATP/CH","Eysseric J / Mayot H","Bonzi B / Gueymard Wayenburg S",0,0.461,0.539,1.286,3.5,0.754,0.246
+"52","2024-09-25","Orleans, France, Doubles","ATP/CH","Goransson A / Verbeek S","Schnaitter J / Wallner M",0,0.615,0.385,1.5,2.5,0.638,0.362
+"53","2024-09-25","Orleans, France, Doubles","ATP/CH","Lamasine T / Paris T","Janvier M / Vatutin A",1,0.604,0.396,1.833,1.833,0.5,0.5
+"54","2024-09-25","Antofagasta, Chile, Doubles","ATP/CH","Couacaud E / De Jong J","Arias B / Zeballos F",1,0.399,0.601,2.25,1.571,0.4,0.6
+"55","2024-09-25","Antofagasta, Chile, Doubles","ATP/CH","Duncan S / Reese H","Guillen Meza A / Vallejo Daniel",0,0.335,0.665,1.5,2.5,0.638,0.362
+"56","2024-09-25","Antofagasta, Chile, Doubles","ATP/CH","Heide G / Reis Da Silva J L","Britto L / Saraiva Dos Santos P",1,0.555,0.445,1.533,2.375,0.62,0.38
+"57","2024-09-25","Antofagasta, Chile, Doubles","ATP/CH","Luz O / Zormann M","Becerra Otarola I A / Nunez D A",1,0.845,0.155,1.071,7.5,0.918,0.082
+"58","2024-09-25","Antofagasta, Chile, Doubles","ATP/CH","Mena F / Roncadelli F","Alves M / Soto M",0,0.454,0.546,2.2,1.615,0.415,0.585
+"59","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Arneodo R / Arribage T","Elias G / Falcao G",1,0.926,0.074,1.083,7,0.907,0.093
+"60","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Cabral F / Pellegrino A","Cornea V V / Molchanov D",1,0.39,0.61,2.2,1.615,0.415,0.585
+"61","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Cervantes Huegun I / Rincon D","Bortolotti M / Seggerman R",1,0.461,0.539,2.2,1.615,0.415,0.585
+"62","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Drzewiecki K / Matuszewski P","Donski A / Oberleitner N",1,0.45,0.55,1.444,2.625,0.662,0.338
+"63","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Jecan M-A / Liutarevich I","Ferreira Silva F / Vale D",1,0.822,0.178,1.444,2.625,0.662,0.338
+"64","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Martinez L D / Vega Hernandez D","Faria J / Rocha H",1,0.243,0.757,2.5,1.5,0.362,0.638
+"65","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Martos Gornes S / Walkow S","Goldhoff G / Romboli F",0,0.389,0.611,2,1.727,0.459,0.541
+"66","2024-09-25","Lisbon, Portugal, Doubles","ATP/CH","Nouza P / Rikl P","Cukierman D / Sabanov I",1,0.7,0.3,1.286,3.5,0.754,0.246
+"67","2024-09-25","Nonthaburi 4, Thailand, Doubles","ATP/CH","Charoenphon Y / Samrej K","Ellis B / Walton A",0,0.238,0.762,8.5,1.05,0.062,0.938
+"68","2024-09-25","Nonthaburi 4, Thailand, Doubles","ATP/CH","Diallo G / Watanabe S","Pel D / Stevens B",1,0.432,0.568,2.5,1.5,0.362,0.638
+"69","2024-09-25","Nonthaburi 4, Thailand, Doubles","ATP/CH","Matsui T / Ramanathan R","Noguchi R / Uchida K",1,0.341,0.659,2,1.727,0.459,0.541
+"70","2024-09-25","Nonthaburi 4, Thailand, Doubles","ATP/CH","Moro Canas A / Trungelliti M","Alcantara F C / Chung Y S",1,0.172,0.828,2,1.727,0.459,0.541
+"71","2024-09-25","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Dong Z / Hongyu Y","Castelnuovo L / Shin W",0,0.158,0.842,6,1.111,0.118,0.882
+"72","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Battiston A / Bondioli F","Guerrieri A / Vulpitta G",0,0.384,0.616,1.833,1.833,0.5,0.5
+"73","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Carboni L / Rapagnetta D","Caruso A / Caruso S",1,0.49,0.51,2.5,1.5,0.362,0.638
+"74","2024-09-25","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Iannaccone F / Tabacco F","La Vela G / Malgaroli L",0,0.557,0.443,1.833,1.833,0.5,0.5
+"75","2024-09-25","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Sakellaridis D / Sakellaridis M","Dinev D / Obradovic D",1,0.421,0.579,3,1.364,0.293,0.707
+"76","2024-09-25","Tokyo, Japan, Doubles","ATP/CH","Erler A / Middelkoop M","Draper J / Machac T",0,0.534,0.466,1.83,1.83,0.5,0.5
+"77","2024-09-25","Tokyo, Japan, Doubles","ATP/CH","Shelton B / Thompson J","Nishioka Y / Uesugi K",1,0.65,0.35,1.2,4.333,0.812,0.188
+"78","2024-09-25","Tokyo, Japan, Doubles","ATP/CH","Lammons N / Withrow J","Nishikori K / Sakamoto R",1,0.926,0.074,1.14,5.5,0.86,0.14
+"79","2024-09-25","Charleston, USA, Doubles","ATP/CH","Puttergill C / Sweeny D","Pearson K / Sheehy J",1,0.425,0.575,1.667,2.1,0.564,0.436
+"80","2024-09-25","Charleston, USA, Doubles","ATP/CH","Peniston R / Stevenson D","Saville L / Schoolkate T",0,0.315,0.685,2.375,1.533,0.38,0.62
+"81","2024-09-25","Charleston, USA, Doubles","ATP/CH","Bertola R / Stricker D","Kiger M / Sigouin B",0,0.674,0.326,1.727,2,0.541,0.459
+"82","2024-09-25","Charleston, USA, Doubles","ATP/CH","Hach Verdugo H / Trotter J K","Kingsley C / Stevenson K",1,0.752,0.248,1.4,2.75,0.683,0.317
+"83","2024-09-25","Charleston, USA, Doubles","ATP/CH","Hilderbrand T / Lawson A","Martin A / Woodall W",1,0.803,0.197,1.2,4.333,0.812,0.188
+"84","2024-09-25","Charleston, USA, Doubles","ATP/CH","Roveri Sidney G / Whiting T","Galarneau A / Holt B",1,0.705,0.295,2.25,1.571,0.4,0.6
+"85","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Midon L / Zeitune G","Torrealba B / Villalon Valdes N",1,0.66,0.34,1.533,2.375,0.62,0.38
+"86","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Estevez J / Monferrer L","Basel V / Ribero F",0,0.254,0.746,1.833,1.833,0.5,0.5
+"87","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Escurra Isnardi H J / Vergara Del Puerto M","Boscardin Dias P / Zeitune M",0,0.444,0.556,1.833,1.833,0.5,0.5
+"88","2024-09-25","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Frutos Alonso A A / Nunez Vera A S","De La Fuente S / Falabella L A",0,0.358,0.642,9,1.04,0.052,0.948
+"89","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Bass F / Mackinlay J","Eriksson S / Tudorica A N",0,0.718,0.282,2.1,1.667,0.436,0.564
+"90","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Bladelius H / Karlsson Wistrand J","Grevelius E / Heinonen A",0,0.233,0.767,2.25,1.571,0.4,0.6
+"91","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Durasovic V / Hellum Lilleengen L","Geerts M / Wiskandt M",1,0.556,0.444,2.5,1.5,0.362,0.638
+"92","2024-09-25","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Kaukovalta P / Vasa E","Hands T / Wendelken H",1,0.374,0.626,1.571,2.25,0.6,0.4
+"93","2024-09-25","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Pedrico Kravtsov A / Segado Esteve R","Harper C / Montes-De La Torre I",0,0.109,0.891,5.5,1.125,0.131,0.869
+"94","2024-09-25","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Nijboer R / Nikles J","Handel T / Heller P",1,0.464,0.536,1.667,2.1,0.564,0.436
+"95","2024-09-25","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Pinheiro Da Cruz Junior G / Raul Theophilo Bruno De La Vega R","Pieleanu R T / Wazny A",0,0.399,0.601,3.75,1.25,0.223,0.777
+"96","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Beloborodko I / Poritskyy A","Ruehl T / Wehnelt K",0,0.093,0.907,4,1.222,0.205,0.795
+"97","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Beloborodko I / Poritskyy A","Homola P / Michnev P",1,0.478,0.522,2.1,1.667,0.436,0.564
+"98","2024-09-25","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Karol M / Lanik T","De Bernardis A / Rottoli L",1,0.888,0.112,1.444,2.625,0.662,0.338
+"99","2024-09-26","Beijing, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Wang A / Zhou Y",1,0.838,0.162,2.6,1.4,0.326,0.674
+"100","2024-09-26","Beijing, China, Doubles","ATP/CH","Carballes Baena R / Carreno Busta P","Heliovaara H / Patten H",0,0.124,0.876,5,1.17,0.162,0.838
+"101","2024-09-26","Beijing, China, Doubles","ATP/CH","Cerundolo F / Jarry N","Bopanna R / Dodig I",1,0.114,0.886,5,1.17,0.162,0.838
+"102","2024-09-26","Beijing, China, Doubles","ATP/CH","Krajicek A / Ram R","Koolhof W / Mektic N",0,0.504,0.496,2.1,1.67,0.436,0.564
+"103","2024-09-26","Beijing, China, Doubles","ATP/CH","Skupski N / Venus M","Cobolli F. / Musetti L",0,0.818,0.182,1.29,3.5,0.753,0.247
+"104","2024-09-26","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Jeong Y / Park U","Hsu J C E / Van Wyk K",1,0.555,0.445,1.667,2.1,0.564,0.436
+"105","2024-09-26","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Andaloro F / Tammaro M","Alkaya M / Ozdemir S M",1,0.45,0.55,1.533,2.375,0.62,0.38
+"106","2024-09-26","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Beaupain S / Demanet E","Gil Garcia A / Merre N",1,0.695,0.305,1.333,3.25,0.728,0.272
+"107","2024-09-26","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Furlanetto M / Giunta M","Kielan S / Pieczonka F",0,0.175,0.825,4.333,1.2,0.188,0.812
+"108","2024-09-26","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Ivanov S / Kountourakis I","Bassem Sobhy M / Zakaryia F",0,0.329,0.671,2.375,1.533,0.38,0.62
+"109","2024-09-26","Tokyo, Japan, Doubles","ATP/CH","Behar A / Galloway R","Pavlasek A / Rojer J-J",1,0.425,0.575,1.83,1.83,0.5,0.5
+"110","2024-09-26","Tokyo, Japan, Doubles","ATP/CH","Cash J / Glasspool L","Gonzalez M / Molteni A",1,0.504,0.496,1.83,1.83,0.5,0.5
+"111","2024-09-26","Orleans, France, Doubles","ATP/CH","Grenier H / Sanchez L","Haase R / Miedler L",1,0.259,0.741,3.5,1.286,0.246,0.754
+"112","2024-09-26","Orleans, France, Doubles","ATP/CH","Lamasine T / Paris T","Guinard M / Jacq G",0,0.182,0.818,3.75,1.25,0.223,0.777
+"113","2024-09-26","Antofagasta, Chile, Doubles","ATP/CH","Braga B / Braga V","Couacaud E / De Jong J",0,0.197,0.803,21,1.002,0.004,0.996
+"114","2024-09-26","Antofagasta, Chile, Doubles","ATP/CH","Luz O / Zormann M","Heide G / Reis Da Silva J L",1,0.594,0.406,1.444,2.625,0.662,0.338
+"115","2024-09-26","Antofagasta, Chile, Doubles","ATP/CH","Ambrogi L E / Zuniga Garcia B","Alves M / Soto M",0,0.272,0.728,7,1.083,0.093,0.907
+"116","2024-09-26","Charleston, USA, Doubles","ATP/CH","Hach Verdugo H / Trotter J K","Andrade A / Shelbayh A",0,0.61,0.39,1.833,1.833,0.5,0.5
+"117","2024-09-26","Charleston, USA, Doubles","ATP/CH","Hilderbrand T / Lawson A","Puttergill C / Sweeny D",0,0.665,0.335,1.667,2.1,0.564,0.436
+"118","2024-09-26","Charleston, USA, Doubles","ATP/CH","Kiger M / Sigouin B","Spizzirri E / Zink T",0,0.306,0.694,1.727,2,0.541,0.459
+"119","2024-09-26","Charleston, USA, Doubles","ATP/CH","Roveri Sidney G / Whiting T","Saville L / Schoolkate T",0,0.207,0.793,3,1.364,0.293,0.707
+"120","2024-09-26","Lisbon, Portugal, Doubles","ATP/CH","Nouza P / Rikl P","Drzewiecki K / Matuszewski P",0,0.716,0.284,1.3,3.4,0.746,0.254
+"121","2024-09-26","Lisbon, Portugal, Doubles","ATP/CH","Jecan M-A / Liutarevich I","Cervantes Huegun I / Rincon D",0,0.372,0.628,1.833,1.833,0.5,0.5
+"122","2024-09-26","Lisbon, Portugal, Doubles","ATP/CH","Arneodo R / Arribage T","Martinez L D / Vega Hernandez D",1,0.742,0.258,1.571,2.25,0.6,0.4
+"123","2024-09-26","Lisbon, Portugal, Doubles","ATP/CH","Goldhoff G / Romboli F","Cabral F / Pellegrino A",1,0.462,0.538,2.25,1.571,0.4,0.6
+"124","2024-09-26","Nonthaburi 4, Thailand, Doubles","ATP/CH","Bollipalli R C / Kadhe A","Diallo G / Watanabe S",1,0.596,0.404,1.571,2.25,0.6,0.4
+"125","2024-09-26","Nonthaburi 4, Thailand, Doubles","ATP/CH","Ho R / Paris J","Bayldon B / Fancutt T",0,0.546,0.454,1.5,2.5,0.638,0.362
+"126","2024-09-26","Nonthaburi 4, Thailand, Doubles","ATP/CH","Matsui T / Ramanathan R","Moro Canas A / Trungelliti M",1,0.607,0.393,1.286,3.5,0.754,0.246
+"127","2024-09-26","Nonthaburi 4, Thailand, Doubles","ATP/CH","Ellis B / Walton A","Rodriguez C / Romios M C",1,0.397,0.603,1.833,1.833,0.5,0.5
+"128","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Del Pino M / La Serna J M","De La Fuente S / Falabella L A",0,0.759,0.241,1.444,2.625,0.662,0.338
+"129","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Franco T / Vilicich B","Boscardin Dias P / Zeitune M",0,0.173,0.827,2.375,1.533,0.38,0.62
+"130","2024-09-26","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Cavallo F / Mouilleron Salvo M","Basel V / Ribero F",0,0.286,0.714,2.625,1.444,0.338,0.662
+"131","2024-09-26","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Eriksson S / Tudorica A N","Kaukovalta P / Vasa E",0,0.305,0.695,2.75,1.4,0.317,0.683
+"132","2024-09-26","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Grevelius E / Heinonen A","Durasovic V / Hellum Lilleengen L",1,0.641,0.359,1.533,2.375,0.62,0.38
+"133","2024-09-26","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Huang T-H / Xiao L","Castelnuovo L / Shin W",0,0.529,0.471,2.2,1.615,0.415,0.585
+"134","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Banthia S / Ganta S K R","Iradukunda G O / Safwat M",1,0.633,0.367,1.4,2.75,0.683,0.317
+"135","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Lock B / Lock C J","Bianchi J J / Perez B",1,0.784,0.216,1.3,3.4,0.746,0.254
+"136","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Iamachkine Samarina P P / Plunger M","Kumar P / Schachter N",0,0.2,0.8,6.5,1.1,0.107,0.893
+"137","2024-09-26","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Kalyanpur A / Reddy R","Denolly C / Ouakaa A",0,0.363,0.637,2.5,1.5,0.362,0.638
+"138","2024-09-26","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","La Vela G / Malgaroli L","Ocleppo J / Oradini G",0,0.131,0.869,3.25,1.333,0.272,0.728
+"139","2024-09-26","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Harper C / Montes-De La Torre I","Alcala Gurri M / Nedelchev N",1,0.897,0.103,1.286,3.5,0.754,0.246
+"140","2024-09-26","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Konov S / Mortasifu M","Ribeiro Lago E J / Schiessl J E",0,0.105,0.895,7,1.083,0.093,0.907
+"141","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Karol M / Lanik T","Catry R / Nagel A",1,0.468,0.532,1.4,2.75,0.683,0.317
+"142","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Medved J / Talajka T","Krajci M / Pokorny L",0,0.423,0.577,6.5,1.1,0.107,0.893
+"143","2024-09-26","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Schell N / Visker N","Brunclik P / Petak D",1,0.61,0.39,1.833,1.833,0.5,0.5
+"144","2024-09-26","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Sakellaridis D / Sakellaridis M","Bojkovic N / Topo M",1,0.24,0.76,1.25,3.75,0.777,0.223
+"145","2024-09-26","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Vanshelboim E / Whitehouse M","Beckley A / Paz J P",0,0.494,0.506,1.5,2.5,0.638,0.362
+"146","2024-09-27","Beijing, China, Doubles","ATP/CH","Matos R / Melo M","Murray J / Peers J",0,0.487,0.513,1.83,1.83,0.5,0.5
+"147","2024-09-27","Tokyo, Japan, Doubles","ATP/CH","Darderi L / Etcheverry T M","Michelsen A / Tabilo A",0,0.144,0.856,2.75,1.4,0.317,0.683
+"148","2024-09-27","Tokyo, Japan, Doubles","ATP/CH","Doumbia S / Reboul F","Gille S / Vliegen J",1,0.678,0.322,1.73,2,0.541,0.459
+"149","2024-09-27","Tokyo, Japan, Doubles","ATP/CH","Hijikata R / Popyrin A","Nys H / Zielinski J",0,0.157,0.843,2.25,1.57,0.4,0.6
+"150","2024-09-27","Orleans, France, Doubles","ATP/CH","Arends S / Johnson L","Bonzi B / Gueymard Wayenburg S",0,0.64,0.36,1.364,3,0.707,0.293
+"151","2024-09-27","Orleans, France, Doubles","ATP/CH","Schnaitter J / Wallner M","Genov A / Vincent Ruggeri S",1,0.514,0.486,1.444,2.625,0.662,0.338
+"152","2024-09-27","Beijing, China, Doubles","ATP/CH","Escobar G / Hidalgo D","Gonzalez S / Roger-Vasselin E",0,0.344,0.656,3,1.36,0.292,0.708
+"153","2024-09-27","Antofagasta, Chile, Doubles","ATP/CH","Luz O / Zormann M","Aboian L / Aboian V",0,0.714,0.286,1.333,3.25,0.728,0.272
+"154","2024-09-27","Antofagasta, Chile, Doubles","ATP/CH","Alves M / Soto M","Couacaud E / De Jong J",1,0.552,0.448,1.909,1.8,0.483,0.517
+"155","2024-09-27","Nonthaburi 4, Thailand, Doubles","ATP/CH","Bollipalli R C / Kadhe A","Matsui T / Ramanathan R",1,0.697,0.303,1.571,2.25,0.6,0.4
+"156","2024-09-27","Nonthaburi 4, Thailand, Doubles","ATP/CH","Bayldon B / Fancutt T","Ellis B / Walton A",0,0.382,0.618,2.25,1.571,0.4,0.6
+"157","2024-09-27","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","De La Fuente S / Falabella L A","Boscardin Dias P / Zeitune M",1,0.381,0.619,2.1,1.667,0.436,0.564
+"158","2024-09-27","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","Basel V / Ribero F","Midon L / Zeitune G",1,0.344,0.656,2,1.727,0.459,0.541
+"159","2024-09-27","Falun, Doubles Main, M-ITF-SWE-04A","ITF","Kaukovalta P / Vasa E","Grevelius E / Heinonen A",0,0.338,0.662,1.833,1.833,0.5,0.5
+"160","2024-09-27","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Yang Z / Zeng Y","Tang S / Zheng Z",1,0.246,0.754,1.833,1.833,0.5,0.5
+"161","2024-09-27","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Jeong Y / Park U","Castelnuovo L / Shin W",0,0.382,0.618,2.375,1.533,0.38,0.62
+"162","2024-09-27","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Lock B / Lock C J","Banthia S / Ganta S K R",1,0.503,0.497,1.444,2.625,0.662,0.338
+"163","2024-09-27","Sabadell, Doubles Main, M-ITF-ESP-41A","ITF","Nijboer R / Nikles J","Harper C / Montes-De La Torre I",1,0.282,0.718,2.5,1.5,0.362,0.638
+"164","2024-09-27","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Pieleanu R T / Wazny A","Ribeiro Lago E J / Schiessl J E",0,0.321,0.679,4.333,1.2,0.188,0.812
+"165","2024-09-27","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Karol M / Lanik T","Schell N / Visker N",1,0.539,0.461,1.727,2,0.541,0.459
+"166","2024-09-27","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Krajci M / Pokorny L","Ruehl T / Wehnelt K",0,0.117,0.883,3.5,1.286,0.246,0.754
+"167","2024-09-28","Orleans, France, Doubles","ATP/CH","Guinard M / Jacq G","Grenier H / Sanchez L",1,0.838,0.162,1.286,3.5,0.754,0.246
+"168","2024-09-28","Tokyo, Japan, Doubles","ATP/CH","Lammons N / Withrow J","Behar A / Galloway R",0,0.673,0.327,1.53,2.38,0.621,0.379
+"169","2024-09-28","Orleans, France, Doubles","ATP/CH","Schnaitter J / Wallner M","Bonzi B / Gueymard Wayenburg S",0,0.538,0.462,1.444,2.625,0.662,0.338
+"170","2024-09-28","Antofagasta, Chile, Doubles","ATP/CH","Aboian L / Aboian V","Alves M / Soto M",0,0.369,0.631,2.375,1.533,0.38,0.62
+"171","2024-09-28","Charleston, USA, Doubles","ATP/CH","Andrade A / Shelbayh A","Puttergill C / Sweeny D",0,0.696,0.304,1.5,2.5,0.638,0.362
+"172","2024-09-28","Charleston, USA, Doubles","ATP/CH","Spizzirri E / Zink T","Saville L / Schoolkate T",0,0.46,0.54,2.2,1.615,0.415,0.585
+"173","2024-09-28","Lisbon, Portugal, Doubles","ATP/CH","Arneodo R / Arribage T","Drzewiecki K / Matuszewski P",1,0.597,0.403,1.444,2.625,0.662,0.338
+"174","2024-09-28","Nonthaburi 4, Thailand, Doubles","ATP/CH","Bollipalli R C / Kadhe A","Ellis B / Walton A",0,0.525,0.475,1.571,2.25,0.6,0.4
+"175","2024-09-28","Asuncion, Doubles Main, M-ITF-PAR-01A","ITF","De La Fuente S / Falabella L A","Basel V / Ribero F",1,0.524,0.476,1.833,1.833,0.5,0.5
+"176","2024-09-28","Fuzhou, Doubles Main, M-ITF-CHN-13A","ITF","Yang Z / Zeng Y","Castelnuovo L / Shin W",0,0.318,0.682,1.833,1.833,0.5,0.5
+"177","2024-09-28","Kigali, Doubles Main, M-ITF-RWA-01A","ITF","Lock B / Lock C J","Denolly C / Ouakaa A",0,0.464,0.536,1.615,2.2,0.585,0.415
+"178","2024-09-28","Monastir, Doubles Main, M-ITF-TUN-51A","ITF","Aksu C / Celikbilek A","Andaloro F / Tammaro M",1,0.723,0.277,1.571,2.25,0.6,0.4
+"179","2024-09-28","S. Margherita Di Pula, Doubles Main, M-ITF-ITA-29A","ITF","Bilardo J / Virgili A","Ocleppo J / Oradini G",0,0.348,0.652,1.667,2.1,0.564,0.436
+"180","2024-09-28","Sharm ElSheikh, Doubles Main, M-ITF-EGY-13A","ITF","Golubev D / Tiurnev E","Kielan S / Pieczonka F",0,0.131,0.869,3.5,1.286,0.246,0.754
+"181","2024-09-28","Targu Mures, Doubles Main, M-ITF-ROU-20A","ITF","Dumitru A C / Tomescu D A","Ribeiro Lago E J / Schiessl J E",0,0.309,0.691,2.75,1.4,0.317,0.683
+"182","2024-09-28","Trnava, Doubles Main, M-ITF-SVK-03A","ITF","Karol M / Lanik T","Ruehl T / Wehnelt K",1,0.453,0.547,1.615,2.2,0.585,0.415
+"183","2024-09-28","Zlatibor, Doubles Main, M-ITF-SRB-25A","ITF","Beckley A / Paz J P","Gulin S / Snitari I",0,0.569,0.431,1.909,1.8,0.483,0.517
+"184","2024-09-29","Beijing, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Bublik A / Martinez P",1,0.853,0.147,1.36,3,0.708,0.292
+"185","2024-09-29","Beijing, China, Doubles","ATP/CH","Gonzalez S / Roger-Vasselin E","Heliovaara H / Patten H",0,0.375,0.625,2.25,1.57,0.4,0.6
+"186","2024-09-29","Beijing, China, Doubles","ATP/CH","Cobolli F. / Musetti L","Koolhof W / Mektic N",0,0.224,0.776,3.5,1.29,0.247,0.753
+"187","2024-09-29","Beijing, China, Doubles","ATP/CH","Murray J / Peers J","Cerundolo F / Jarry N",1,0.829,0.171,1.33,3.25,0.729,0.271
+"188","2024-09-29","Tokyo, Japan, Doubles","ATP/CH","Michelsen A / Tabilo A","Nys H / Zielinski J",1,0.417,0.583,2.25,1.57,0.4,0.6
+"189","2024-09-29","Orleans, France, Doubles","ATP/CH","Bonzi B / Gueymard Wayenburg S","Guinard M / Jacq G",1,0.366,0.634,2.75,1.4,0.317,0.683
+"190","2024-09-29","Lisbon, Portugal, Doubles","ATP/CH","Arneodo R / Arribage T","Goldhoff G / Romboli F",1,0.655,0.345,1.5,2.5,0.638,0.362
+"191","2024-09-30","Tokyo, Japan, Doubles","ATP/CH","Cash J / Glasspool L","Michelsen A / Tabilo A",1,0.532,0.468,1.57,2.25,0.6,0.4
+"192","2024-10-01","Beijing, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Koolhof W / Mektic N",1,0.521,0.479,1.67,2.1,0.564,0.436
+"193","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Barrientos N / Mansouri S","Holmgren A / Ingildsen J",0,0.594,0.406,1.533,2.375,0.62,0.38
+"194","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Broom C / Hermans M","Demoliner M / Harrison C",0,0.329,0.671,1.833,1.833,0.5,0.5
+"195","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Chidekh C / Sanchez L","Schnaitter J / Wallner M",0,0.142,0.858,2.5,1.5,0.362,0.638
+"196","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Garcian A / Mayot H","Debru G / Martineau M",0,0.461,0.539,2,1.727,0.459,0.541
+"197","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Guinard M / Jacq G","Eysseric J / Reymond A",1,0.7,0.3,1.571,2.25,0.6,0.4
+"198","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Poullain L / Reco A","Haase R / Miedler L",0,0.18,0.82,8,1.062,0.073,0.927
+"199","2024-10-01","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Stevenson D / Willis M","Janvier M / Vatutin A",1,0.888,0.112,1.444,2.625,0.662,0.338
+"200","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Bortolotti M / Cukierman D","Galan D E / Taberner C",1,0.877,0.123,1.364,3,0.707,0.293
+"201","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Goldhoff G / Romboli F","Sabanov I / Sabanov M",0,0.538,0.462,1.667,2.1,0.564,0.436
+"202","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Kirkov V / Nava E","Arribage T / Cabral F",0,0.494,0.506,2.5,1.5,0.362,0.638
+"203","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Martos Gornes S / Walkow S","Pereira T / Vale D",0,0.614,0.386,1.571,2.25,0.6,0.4
+"204","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Oberleitner N / Virgili A","Bergevi F / Veldheer M",0,0.524,0.476,2.75,1.4,0.317,0.683
+"205","2024-10-01","Braga, Portugal, Doubles","ATP/CH","Ricca G / Romano F","Jecan M-A / Liutarevich I",0,0.531,0.469,2.25,1.571,0.4,0.6
+"206","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Andrade A / Shelbayh A","Cash R / Tracy J",0,0.357,0.643,2.1,1.667,0.436,0.564
+"207","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Den Ouden G / Bertola R","Kypson P / Spizzirri E",0,0.651,0.349,2,1.727,0.459,0.541
+"208","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Hilderbrand T / Lawson A","Godsick N / Quinn E",1,0.744,0.256,1.4,2.75,0.683,0.317
+"209","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Kiger M / Trhac P","Holt B / Mejia N",1,0.807,0.193,1.444,2.625,0.662,0.338
+"210","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Pearson K / Sheehy J","Daniell M / Hach Verdugo H",1,0.553,0.447,3.5,1.286,0.246,0.754
+"211","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Puttergill C / Sweeny D","Saville L / Schoolkate T",0,0.226,0.774,2.625,1.444,0.338,0.662
+"212","2024-10-01","Tiburon, USA, Doubles","ATP/CH","Roveri Sidney G / Whiting T","Oliveira G / Stevenson K",0,0.674,0.326,1.571,2.25,0.6,0.4
+"213","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Aboian L / Aboian V","Bueno G / Guillen Meza A",1,0.512,0.488,1.615,2.2,0.585,0.415
+"214","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Arias B / Zeballos F","Olivieri G / Ugo Carabelli Camilo",0,0.749,0.251,1.5,2.5,0.638,0.362
+"215","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Collarini A / Olivo R","Andreozzi G / Kestelboim M",0,0.172,0.828,2.75,1.4,0.317,0.683
+"216","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Gomez F A / Martinez L D","Ambrogi L E / Del Pino M",1,0.675,0.325,1.25,3.75,0.777,0.223
+"217","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Habib H / Popko D","Duncan S / Reese H",0,0.561,0.439,2.625,1.444,0.338,0.662
+"218","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Heide G / Reis Da Silva J L","Murkel Dellien / Mena F",0,0.41,0.59,1.833,1.833,0.5,0.5
+"219","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Huertas Del Pino Cordova A / Huertas Del Pino C","Carou I / Dellien H",0,0.787,0.213,1.727,2,0.541,0.459
+"220","2024-10-01","Buenos Aires 3, Argentina, Doubles","ATP/CH","Meligeni Alves F / Zormann M","Alves M / Luz O",1,0.453,0.547,2.375,1.533,0.38,0.62
+"221","2024-10-01","Beijing, China, Doubles","ATP/CH","Heliovaara H / Patten H","Murray J / Peers J",1,0.627,0.373,1.5,2.5,0.638,0.362
+"222","2024-10-01","Tokyo, Japan, Doubles","ATP/CH","Behar A / Galloway R","Cash J / Glasspool L",0,0.368,0.632,2.1,1.67,0.436,0.564
+"223","2024-10-01","Villena, Spain, Doubles","ATP/CH","Arends S / Johnson L","Merino A / Negritu C",0,0.657,0.343,1.143,5,0.853,0.147
+"224","2024-10-01","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Al Azmeh T / Martin D","Nefve A / Vance J",0,0.543,0.457,2.1,1.667,0.436,0.564
+"225","2024-10-01","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Perez A / Vance J","George B T / Siekanowicz P",1,0.643,0.357,1.222,4,0.795,0.205
+"226","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Colson T / Loof T","Bianchet S / Birrell C",1,0.788,0.212,1.1,6.5,0.893,0.107
+"227","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Falck R / Ryan Ziegann S","Delaney J / Delaney J",1,0.195,0.805,6,1.111,0.118,0.882
+"228","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Bouzige M / Court J","Vickery L / Winter H",0,0.402,0.598,1.222,4,0.795,0.205
+"229","2024-10-01","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Inui Y / Mehrotra A","Gaal C / Papac T E",0,0.531,0.469,1.5,2.5,0.638,0.362
+"230","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hrazdil J / Poljak D","Bajurko A / Simundza J",1,0.869,0.131,1.167,4.5,0.833,0.167
+"231","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hrynkiewicz J / Jedrzejczak J","Kielan S / Pieczonka F",0,0.079,0.921,9,1.04,0.052,0.948
+"232","2024-10-01","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Kaukovalta P / Vasa E","Graf D / Paty D",1,0.528,0.472,1.667,2.1,0.564,0.436
+"233","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Chvets V / Mishkin K","Denolly C / Ouakaa A",0,0.155,0.845,3.75,1.25,0.223,0.777
+"234","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Kumar P / Schachter N","Kalyanpur A / Reddy R",1,0.561,0.439,1.533,2.375,0.62,0.38
+"235","2024-10-01","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Laborde A / Neuchrist M","Banthia S / Ganta S K R",1,0.191,0.809,3.4,1.3,0.254,0.746
+"236","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Cundom J / Hess S","Dutra Da Silva D / Pereira J",0,0.151,0.849,3.4,1.3,0.254,0.746
+"237","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Basel V / Ribero F","Gonzalez Benitez F G / Martinez Morel F M",1,0.807,0.193,1.062,8,0.927,0.073
+"238","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Britto L / Saraiva Dos Santos P","Alvarado Berrospi A O / Fishback R",1,0.833,0.167,1.222,4,0.795,0.205
+"239","2024-10-01","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Pinto L / Rodrigues L","Falabella L A / La Serna J M",0,0.088,0.912,5,1.143,0.147,0.853
+"240","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Augunas J / Fedorov T","Gima S / Hamza Reguig S",0,0.295,0.705,4.5,1.167,0.167,0.833
+"241","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Elamin A / Gil Garcia A","Knippling P / Nagoudi A",1,0.313,0.687,1.833,1.833,0.5,0.5
+"242","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Rodesch C / Woodall W","Sallay P / Smiej Y",1,0.6,0.4,1.222,4,0.795,0.205
+"243","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Andaloro F / Tammaro M","Campese C / Mazzola F",1,0.761,0.239,1.2,4.333,0.812,0.188
+"244","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Corbinais S / Ifi N","Chepelev A / Klok D",1,0.282,0.718,2.1,1.667,0.436,0.564
+"245","2024-10-01","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Evans G / Ross J","Schoenhaus M / Sperle J",1,0.173,0.827,3.25,1.333,0.272,0.728
+"246","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Hignett L / Mackinlay J","Gouge M / Rocci M",1,0.733,0.267,1.03,10,0.959,0.041
+"247","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Freire Da Silva A / Genier T","Brosset S / Colne N",1,0.459,0.541,1.533,2.375,0.62,0.38
+"248","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Camus C / Marionneau L","Muller R / Visker N",0,0.092,0.908,2.625,1.444,0.338,0.662
+"249","2024-10-01","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Donnet E / Dussin L","Hoang A / Musitelli F",0,0.391,0.609,1.833,1.833,0.5,0.5
+"250","2024-10-01","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Krutykh O / Sakellaridis D","Ahti V / Overmyer K",1,0.639,0.361,1.5,2.5,0.638,0.362
+"251","2024-10-01","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Spadola A / Vavassori M","De Marchi A / Ortenzi G M",1,0.552,0.448,1.667,2.1,0.564,0.436
+"252","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Blazka D / Gengel M","Elsayed A / Jones M",0,0.182,0.818,5.5,1.125,0.131,0.869
+"253","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Story J / Summers M","Galimardanov O / Khazime D",1,0.822,0.178,1.125,5.5,0.869,0.131
+"254","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","De Alba Valdes R A / Sau Franco A","Kamchibekov I / Seleznev B",1,0.681,0.319,1.143,5,0.853,0.147
+"255","2024-10-01","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Ehrenschneider N / Gayk C","Dalmasso G / Lakshmanan A",1,0.579,0.421,2.25,1.571,0.4,0.6
+"256","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Beloborodko I / Poritskyy A","Hornung G / Kisantal B",1,0.323,0.677,1.833,1.833,0.5,0.5
+"257","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Jermar J / Zelenay I","De Jonge D / Opitz J",1,0.518,0.482,1.833,1.833,0.5,0.5
+"258","2024-10-01","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Massard L / Nagel A","Hnidets V / Medved J",1,0.821,0.179,1.04,9,0.948,0.052
+"259","2024-10-01","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Nedelchev N / Orlov V","Arauzo Martinez S / Colas Sanchez A",0,0.839,0.161,1.222,4,0.795,0.205
+"260","2024-10-02","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Charlton J / Ellis B","Crowther C / Sach T",1,0.953,0.047,1.083,7,0.907,0.093
+"261","2024-10-02","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Gray T / Jones S","Cook E / Klintcharov A",1,0.404,0.596,2.5,1.5,0.362,0.638
+"262","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Bladelius H / Wallin O","Hands T / Wendelken H",0,0.331,0.669,2.5,1.5,0.362,0.638
+"263","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Kamrowski M / Szajrych J","Knaff A / Tamm K",1,0.382,0.618,1.833,1.833,0.5,0.5
+"264","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Beauge M / Bouquet L","Branger L / Epee M",0,0.824,0.176,1.2,4.333,0.812,0.188
+"265","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Moreno D / Seeman J","Lagarrigue L / Lapalu V",1,0.882,0.118,1.364,3,0.707,0.293
+"266","2024-10-02","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Donald M W / Kalina V","Pokorny L / Wehnelt K",0,0.166,0.834,2.75,1.4,0.317,0.683
+"267","2024-10-02","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Karol M / Lanik T","Rossi L / Rottoli L",1,0.857,0.143,1.222,4,0.795,0.205
+"268","2024-10-02","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Lopez Martos I / Miletich I","Bueno Gil A / Forcano I",0,0.43,0.57,2.75,1.4,0.317,0.683
+"269","2024-10-02","Villena, Spain, Doubles","ATP/CH","Bertrand R / Paire B","Nedunchezhiyan J / Prashanth N V S",0,0.153,0.847,3.5,1.286,0.246,0.754
+"270","2024-10-02","Villena, Spain, Doubles","ATP/CH","Pichler D / Vega Hernandez D","Chandrasekar A / Kaliyanda Poonacha N",0,0.479,0.521,2.2,1.615,0.415,0.585
+"271","2024-10-02","Villena, Spain, Doubles","ATP/CH","Blanch D / Hernandez C","Arneodo R / Cervantes Huegun I",0,0.12,0.88,7,1.083,0.093,0.907
+"272","2024-10-02","Villena, Spain, Doubles","ATP/CH","Geerts M /  Niklas-Salminen P","Cretu C / Royer V",0,0.796,0.204,1.533,2.375,0.62,0.38
+"273","2024-10-02","Villena, Spain, Doubles","ATP/CH","Kym J / Molleker R","Barreto Sanchez D A / Manzanera Pertusa A",1,0.674,0.326,1.5,2.5,0.638,0.362
+"274","2024-10-02","Villena, Spain, Doubles","ATP/CH","Paul J / Vocel M","Babic Z / Moreno De Alboran N",1,0.863,0.137,1.364,3,0.707,0.293
+"275","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hrazdil J / Poljak D","Herrmann T / Loge J",1,0.781,0.219,1.286,3.5,0.754,0.246
+"276","2024-10-02","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Pawelski M / Szymkowiak K","Kielan S / Pieczonka F",1,0.153,0.847,2.625,1.444,0.338,0.662
+"277","2024-10-02","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Barbier Gazeu P / Bax F","Laborde A / Neuchrist M",0,0.617,0.383,1.833,1.833,0.5,0.5
+"278","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Britto L / Saraiva Dos Santos P","Dutra Da Silva D / Pereira J",1,0.511,0.489,2,1.727,0.459,0.541
+"279","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Braga B / Braga V","Frutos Alonso A A / Zeitune M",0,0.47,0.53,6,1.111,0.118,0.882
+"280","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Barreiros Reyes M / Gimenez I","Cavallo F / Mouilleron Salvo M",1,0.785,0.215,1.125,5.5,0.869,0.131
+"281","2024-10-02","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Escurra Isnardi H J / Vergara Del Puerto M","Ribeiro E / Yamacita F",0,0.318,0.682,2.625,1.444,0.338,0.662
+"282","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Andaloro F / Tammaro M","Gima S / Hamza Reguig S",1,0.541,0.459,1.5,2.5,0.638,0.362
+"283","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Elamin A / Gil Garcia A","Evans G / Ross J",1,0.39,0.61,2.625,1.444,0.338,0.662
+"284","2024-10-02","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Rodesch C / Woodall W","Jones A / Jones M",1,0.578,0.422,1.222,4,0.795,0.205
+"285","2024-10-02","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Freire Da Silva A / Genier T","Muller R / Visker N",0,0.097,0.903,2.75,1.4,0.317,0.683
+"286","2024-10-02","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Kellovsky D / Krumich M","Rahmani K / Sciahbasi L",1,0.474,0.526,1.4,2.75,0.683,0.317
+"287","2024-10-02","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","De Alba Valdes R A / Sau Franco A","Elsayed A / Jones M",0,0.229,0.771,3.75,1.25,0.223,0.777
+"288","2024-10-02","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Arauzo Martinez S / Colas Sanchez A","Esteban Torres D / Sheyngezikht L",1,0.494,0.506,1.25,3.75,0.777,0.223
+"289","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Iamachkine Samarina P P / Plunger M","Denolly C / Ouakaa A",0,0.145,0.855,7,1.083,0.093,0.907
+"290","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Kumar P / Schachter N","Bianchi J J / Perez B",0,0.736,0.264,1.3,3.4,0.746,0.254
+"291","2024-10-03","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Lock B / Lock C J","Caripi V / Steiner M",1,0.8,0.2,1.25,3.75,0.777,0.223
+"292","2024-10-03","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Story J / Summers M","Quayle D / Zhu M",1,0.812,0.188,1.444,2.625,0.662,0.338
+"293","2024-10-03","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Debru G / Martineau M","Schnaitter J / Wallner M",0,0.259,0.741,3.25,1.333,0.272,0.728
+"294","2024-10-03","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Demoliner M / Harrison C","Haase R / Miedler L",1,0.508,0.492,2.5,1.5,0.362,0.638
+"295","2024-10-03","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Holmgren A / Ingildsen J","Stevenson D / Willis M",1,0.436,0.564,2.1,1.667,0.436,0.564
+"296","2024-10-03","Villena, Spain, Doubles","ATP/CH","Cretu C / Royer V","Nedunchezhiyan J / Prashanth N V S",1,0.241,0.759,3.75,1.25,0.223,0.777
+"297","2024-10-03","Villena, Spain, Doubles","ATP/CH","Izquierdo Luque R / Marrero Curbelo I","Kym J / Molleker R",0,0.384,0.616,3.25,1.333,0.272,0.728
+"298","2024-10-03","Villena, Spain, Doubles","ATP/CH","Paul J / Vocel M","Chandrasekar A / Kaliyanda Poonacha N",0,0.718,0.282,2,1.727,0.459,0.541
+"299","2024-10-03","Villena, Spain, Doubles","ATP/CH","Merino A / Negritu C","Arneodo R / Cervantes Huegun I",0,0.473,0.527,2.1,1.667,0.436,0.564
+"300","2024-10-03","Braga, Portugal, Doubles","ATP/CH","Jecan M-A / Liutarevich I","Bergevi F / Veldheer M",1,0.54,0.46,2.1,1.667,0.436,0.564
+"301","2024-10-03","Braga, Portugal, Doubles","ATP/CH","Araujo P / Domingues J","Arribage T / Cabral F",0,0.183,0.817,4,1.222,0.205,0.795
+"302","2024-10-03","Tiburon, USA, Doubles","ATP/CH","Cash R / Tracy J","Saville L / Schoolkate T",0,0.514,0.486,1.833,1.833,0.5,0.5
+"303","2024-10-03","Tiburon, USA, Doubles","ATP/CH","Dean T / Overbeck C E","Pearson K / Sheehy J",1,0.55,0.45,2.1,1.667,0.436,0.564
+"304","2024-10-03","Tiburon, USA, Doubles","ATP/CH","Kiger M / Trhac P","Kypson P / Spizzirri E",0,0.618,0.382,1.833,1.833,0.5,0.5
+"305","2024-10-03","Buenos Aires 3, Argentina, Doubles","ATP/CH","Olivieri G / Ugo Carabelli Camilo","Duncan S / Reese H",1,0.456,0.544,1.833,1.833,0.5,0.5
+"306","2024-10-03","Buenos Aires 3, Argentina, Doubles","ATP/CH","Aboian L / Aboian V","Meligeni Alves F / Zormann M",0,0.401,0.599,2.375,1.533,0.38,0.62
+"307","2024-10-03","Buenos Aires 3, Argentina, Doubles","ATP/CH","Carou I / Dellien H","Andreozzi G / Kestelboim M",1,0.137,0.863,2.625,1.444,0.338,0.662
+"308","2024-10-03","Buenos Aires 3, Argentina, Doubles","ATP/CH","Gomez F A / Martinez L D","Murkel Dellien / Mena F",0,0.433,0.567,1.571,2.25,0.6,0.4
+"309","2024-10-03","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Cairo A / Steiglehner N","Nefve A / Vance J",1,0.507,0.493,3.25,1.333,0.272,0.728
+"310","2024-10-03","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Charlton J / Ellis B","Jones H / Rai A",1,0.697,0.303,1.5,2.5,0.638,0.362
+"311","2024-10-03","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Gray T / Jones S","Hulme M / Watt J",0,0.275,0.725,4.333,1.2,0.188,0.812
+"312","2024-10-03","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Kaukovalta P / Vasa E","Kamrowski M / Szajrych J",0,0.702,0.298,1.444,2.625,0.662,0.338
+"313","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Frutos Alonso A A / Zeitune M","Falabella L A / La Serna J M",0,0.229,0.771,4.5,1.167,0.167,0.833
+"314","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Barreiros Reyes M / Gimenez I","Basel V / Ribero F",1,0.553,0.447,1.727,2,0.541,0.459
+"315","2024-10-03","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Boscardin Dias P / Oliveira B","Ribeiro E / Yamacita F",0,0.354,0.646,2,1.727,0.459,0.541
+"316","2024-10-03","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Moreno D / Seeman J","Hoang A / Musitelli F",0,0.496,0.504,1.833,1.833,0.5,0.5
+"317","2024-10-03","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Branger L / Epee M","Durasovic V / Hellum Lilleengen L",0,0.148,0.852,3.4,1.3,0.254,0.746
+"318","2024-10-03","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Rapagnetta D / Tsitsipas P","Kellovsky D / Krumich M",0,0.662,0.338,3.75,1.25,0.223,0.777
+"319","2024-10-03","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Krutykh O / Sakellaridis D","Oradini G / Ovcharenko O",1,0.285,0.715,3.25,1.333,0.272,0.728
+"320","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Beloborodko I / Poritskyy A","Pokorny L / Wehnelt K",0,0.147,0.853,4.333,1.2,0.188,0.812
+"321","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Karol M / Lanik T","Giovannini F / Giovannini U M",1,0.974,0.026,1.05,8.5,0.938,0.062
+"322","2024-10-03","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Massard L / Nagel A","Braynin A / Cerny M",0,0.722,0.278,1.571,2.25,0.6,0.4
+"323","2024-10-03","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Kreynes B / Rating N","Bueno Gil A / Forcano I",0,0.279,0.721,3.75,1.25,0.223,0.777
+"324","2024-10-03","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Gimenez Sanchez E / Sanchez E","Sanchez Quilez A / Winter Lopez B",0,0.098,0.902,26,1.001,0.002,0.998
+"325","2024-10-04","Shanghai, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Machac T / Zhang Z",1,0.545,0.455,1.44,2.63,0.663,0.337
+"326","2024-10-04","Shanghai, China, Doubles","ATP/CH","Bopanna R / Dodig I","Carreno Busta P / Martinez P",1,0.835,0.165,1.33,3.25,0.729,0.271
+"327","2024-10-04","Shanghai, China, Doubles","ATP/CH","Cash J / Glasspool L","Ebden M / Salisbury J",1,0.417,0.583,2.1,1.67,0.436,0.564
+"328","2024-10-04","Shanghai, China, Doubles","ATP/CH","Darderi L / Tabilo A","Tsitsipas P / Tsitsipas S",1,0.537,0.463,1.91,1.8,0.483,0.517
+"329","2024-10-04","Shanghai, China, Doubles","ATP/CH","Doumbia S / Reboul F","Wang A / Zhou Y",0,0.822,0.178,1.07,9,0.924,0.076
+"330","2024-10-04","Shanghai, China, Doubles","ATP/CH","Gille S / Vliegen J","Arevalo M / Pavic M",1,0.203,0.797,2.75,1.4,0.317,0.683
+"331","2024-10-04","Shanghai, China, Doubles","ATP/CH","Gonzalez M / Molteni A","Nys H / Zielinski J",1,0.478,0.522,2.2,1.62,0.416,0.584
+"332","2024-10-04","Shanghai, China, Doubles","ATP/CH","Gonzalez S / Roger-Vasselin E","Bublik A / Tiafoe F",1,0.883,0.117,1.44,2.63,0.663,0.337
+"333","2024-10-04","Shanghai, China, Doubles","ATP/CH","Khachanov K / Rublev A","Skupski N / Venus M",1,0.361,0.639,2.1,1.67,0.436,0.564
+"334","2024-10-04","Shanghai, China, Doubles","ATP/CH","Koolhof W / Mektic N","Fils A / Shelton B",1,0.802,0.198,1.25,3.75,0.777,0.223
+"335","2024-10-04","Shanghai, China, Doubles","ATP/CH","Krajicek A / Ram R","Matos R / Melo M",1,0.576,0.424,1.73,2,0.541,0.459
+"336","2024-10-04","Shanghai, China, Doubles","ATP/CH","Lammons N / Withrow J","Cerundolo F / Etcheverry T",1,0.918,0.082,1.33,3.25,0.729,0.271
+"337","2024-10-04","Shanghai, China, Doubles","ATP/CH","Murray J / Peers J","Humbert U / Mannarino A",1,0.869,0.131,1.2,4.333,0.812,0.188
+"338","2024-10-04","Shanghai, China, Doubles","ATP/CH","Pavlasek A / Rojer J-J","Heliovaara H / Patten H",1,0.253,0.747,2.75,1.4,0.317,0.683
+"339","2024-10-04","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Schnaitter J / Wallner M","Demoliner M / Harrison C",0,0.56,0.44,1.833,1.833,0.5,0.5
+"340","2024-10-04","Villena, Spain, Doubles","ATP/CH","Chandrasekar A / Kaliyanda Poonacha N","Cretu C / Royer V",1,0.661,0.339,1.364,3,0.707,0.293
+"341","2024-10-04","Villena, Spain, Doubles","ATP/CH","Arneodo R / Cervantes Huegun I","Kym J / Molleker R",1,0.532,0.468,1.615,2.2,0.585,0.415
+"342","2024-10-04","Braga, Portugal, Doubles","ATP/CH","Bortolotti M / Cukierman D","Sabanov I / Sabanov M",1,0.64,0.36,1.833,1.833,0.5,0.5
+"343","2024-10-04","Braga, Portugal, Doubles","ATP/CH","Jecan M-A / Liutarevich I","Arribage T / Cabral F",0,0.425,0.575,3.4,1.3,0.254,0.746
+"344","2024-10-04","Tiburon, USA, Doubles","ATP/CH","Dean T / Overbeck C E","Saville L / Schoolkate T",0,0.333,0.667,5,1.143,0.147,0.853
+"345","2024-10-04","Tiburon, USA, Doubles","ATP/CH","Kypson P / Spizzirri E","Oliveira G / Stevenson K",1,0.735,0.265,1.533,2.375,0.62,0.38
+"346","2024-10-04","Buenos Aires 3, Argentina, Doubles","ATP/CH","Olivieri G / Ugo Carabelli Camilo","Murkel Dellien / Mena F",0,0.273,0.727,1.833,1.833,0.5,0.5
+"347","2024-10-04","Buenos Aires 3, Argentina, Doubles","ATP/CH","Meligeni Alves F / Zormann M","Carou I / Dellien H",1,0.688,0.312,1.444,2.625,0.662,0.338
+"348","2024-10-04","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Brown A / Clark E","Borisiouk M / Dickerson R",0,0.39,0.61,2,1.727,0.459,0.541
+"349","2024-10-04","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Cairo A / Steiglehner N","Jones A / Mccormick T",0,0.492,0.508,4,1.222,0.205,0.795
+"350","2024-10-04","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Hulme M / Watt J","Falck R / Ryan Ziegann S",1,0.751,0.249,1.333,3.25,0.728,0.272
+"351","2024-10-04","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Charlton J / Ellis B","Colson T / Loof T",1,0.695,0.305,1.615,2.2,0.585,0.415
+"352","2024-10-04","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hrazdil J / Poljak D","Kamrowski M / Szajrych J",1,0.751,0.249,1.25,3.75,0.777,0.223
+"353","2024-10-04","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hands T / Wendelken H","Pawelski M / Szymkowiak K",1,0.788,0.212,1.4,2.75,0.683,0.317
+"354","2024-10-04","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Laborde A / Neuchrist M","Denolly C / Ouakaa A",1,0.223,0.777,4,1.222,0.205,0.795
+"355","2024-10-04","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Lock B / Lock C J","Bianchi J J / Perez B",1,0.749,0.251,1.3,3.4,0.746,0.254
+"356","2024-10-04","Luque, Doubles Main, M-ITF-PAR-02A","ITF","Britto L / Saraiva Dos Santos P","Barreiros Reyes M / Gimenez I",1,0.639,0.361,1.615,2.2,0.585,0.415
+"357","2024-10-04","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Elamin A / Gil Garcia A","Rodesch C / Woodall W",0,0.134,0.866,4.333,1.2,0.188,0.812
+"358","2024-10-04","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Durasovic V / Hellum Lilleengen L","Muller R / Visker N",0,0.414,0.586,1.833,1.833,0.5,0.5
+"359","2024-10-04","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Hignett L / Mackinlay J","Hoang A / Musitelli F",1,0.432,0.568,1.615,2.2,0.585,0.415
+"360","2024-10-04","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Baragiola Mordini T C / Seghetti S","Kellovsky D / Krumich M",0,0.392,0.608,7,1.083,0.093,0.907
+"361","2024-10-04","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Krutykh O / Sakellaridis D","Spadola A / Vavassori M",1,0.563,0.437,1.364,3,0.707,0.293
+"362","2024-10-04","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Ibrahim K / Maamoun K-M","Story J / Summers M",0,0.138,0.862,3.4,1.3,0.254,0.746
+"363","2024-10-04","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Karol M / Lanik T","Braynin A / Cerny M",0,0.865,0.135,1.125,5.5,0.869,0.131
+"364","2024-10-04","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Pokorny L / Wehnelt K","Jermar J / Zelenay I",1,0.693,0.307,1.286,3.5,0.754,0.246
+"365","2024-10-04","Zaragoza, Doubles Main, M-ITF-ESP-37A","ITF","Arauzo Martinez S / Colas Sanchez A","Bueno Gil A / Forcano I",1,0.628,0.372,1.4,2.75,0.683,0.317
+"366","2024-10-05","Villena, Spain, Doubles","ATP/CH","Arneodo R / Cervantes Huegun I","Chandrasekar A / Kaliyanda Poonacha N",0,0.589,0.411,1.615,2.2,0.585,0.415
+"367","2024-10-05","Braga, Portugal, Doubles","ATP/CH","Bortolotti M / Cukierman D","Arribage T / Cabral F",0,0.491,0.509,3,1.364,0.293,0.707
+"368","2024-10-05","Buenos Aires 3, Argentina, Doubles","ATP/CH","Murkel Dellien / Mena F","Meligeni Alves F / Zormann M",1,0.557,0.443,2.2,1.615,0.415,0.585
+"369","2024-10-05","Ann Arbor, MI, Doubles Main, M-ITF-USA-28A","ITF","Borisiouk M / Dickerson R","Jones A / Mccormick T",0,0.383,0.617,2.2,1.615,0.415,0.585
+"370","2024-10-05","Cairns, Doubles Main, M-ITF-AUS-07A","ITF","Charlton J / Ellis B","Hulme M / Watt J",0,0.775,0.225,1.4,2.75,0.683,0.317
+"371","2024-10-05","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-10A","ITF","Hrazdil J / Poljak D","Hands T / Wendelken H",1,0.576,0.424,1.667,2.1,0.564,0.436
+"372","2024-10-05","Kigali, Doubles Main, M-ITF-RWA-02A","ITF","Lock B / Lock C J","Laborde A / Neuchrist M",0,0.678,0.322,1.364,3,0.707,0.293
+"373","2024-10-05","Monastir, Doubles Main, M-ITF-TUN-52A","ITF","Bittoun Kouzmine C / Fomba L","Rodesch C / Woodall W",0,0.513,0.487,1.571,2.25,0.6,0.4
+"374","2024-10-05","Nevers, Doubles Main, M-ITF-FRA-31A","ITF","Hignett L / Mackinlay J","Muller R / Visker N",0,0.274,0.726,2.1,1.667,0.436,0.564
+"375","2024-10-05","S. Margherita di Pula, Doubles Main, M-ITF-ITA-31A","ITF","Kellovsky D / Krumich M","Krutykh O / Sakellaridis D",0,0.508,0.492,1.571,2.25,0.6,0.4
+"376","2024-10-05","Sharm ElSheikh, Doubles Main, M-ITF-EGY-15A","ITF","Story J / Summers M","Dzhavakian Y / Strombachs R",1,0.733,0.267,1.5,2.5,0.638,0.362
+"377","2024-10-05","Trnava, Doubles Main, M-ITF-SVK-04A","ITF","Braynin A / Cerny M","Pokorny L / Wehnelt K",0,0.195,0.805,3,1.364,0.293,0.707
+"378","2024-10-06","Shanghai, China, Doubles","ATP/CH","Granollers M / Zeballos H","Reyes-Varela M A / Smith J-P",1,0.824,0.176,1.1,7,0.895,0.105
+"379","2024-10-06","Mouilleron-Le-Captif, France, Doubles","ATP/CH","Holmgren A / Ingildsen J","Demoliner M / Harrison C",0,0.555,0.445,2.25,1.571,0.4,0.6
+"380","2024-10-07","Shanghai, China, Doubles","ATP/CH","Bopanna R / Dodig I","Koolhof W / Mektic N",0,0.432,0.568,2.2,1.62,0.416,0.584
+"381","2024-10-07","Shanghai, China, Doubles","ATP/CH","Krajicek A / Ram R","Gonzalez S / Roger-Vasselin E",0,0.564,0.436,1.67,2.1,0.564,0.436
+"382","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Arribage T / Cabral F","Sabanov I / Sabanov M",1,0.684,0.316,1.167,4.5,0.833,0.167
+"383","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Cornea V V / Molchanov D","Alvarez Varona N / Zapata Miralles B",1,0.938,0.062,1.364,3,0.707,0.293
+"384","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Drzewiecki K / Matuszewski P","Nouza P / Rikl P",1,0.29,0.71,2.25,1.571,0.4,0.6
+"385","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Goldhoff G / Romboli F","Martos Gornes S / Walkow S",0,0.635,0.365,1.667,2.1,0.564,0.436
+"386","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Kirkov V / Nava E","Nedunchezhiyan J / Prashanth N V S",0,0.566,0.434,1.833,1.833,0.5,0.5
+"387","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Lopez Montagud C / Taberner C","Jecan M-A / Liutarevich I",0,0.337,0.663,2.625,1.444,0.338,0.662
+"388","2024-10-08","Valencia, Spain, Doubles","ATP/CH","Pellegrino A / Vega Hernandez D","Bortolotti M / Ricca G",0,0.371,0.629,1.667,2.1,0.564,0.436
+"389","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Alcantara F C / Hsu Y H","Bollipalli R C / Kadhe A",0,0.509,0.491,3,1.364,0.293,0.707
+"390","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Bakshi A / Ursu V","Tang S / Zheng Z",0,0.577,0.423,1.364,3,0.707,0.293
+"391","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Bayldon B / Reynolds F","Lock B / Mccabe J",0,0.466,0.534,1.615,2.2,0.585,0.415
+"392","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Blanchet U / Harris B","Marchenko I / Yevseyev D",1,0.561,0.439,1.5,2.5,0.638,0.362
+"393","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Bolt A / Walton A","Matsui T / Ramanathan R",1,0.561,0.439,2,1.727,0.459,0.541
+"394","2024-10-08","Hangzhou, China, Doubles","ATP/CH","King E / Stalder R","Fancutt T / Shimizu Y",0,0.463,0.537,1.4,2.75,0.683,0.317
+"395","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Rodriguez C / Romios M C","Ho R / Paris J",1,0.672,0.328,1.727,2,0.541,0.459
+"396","2024-10-08","Hangzhou, China, Doubles","ATP/CH","Sun F / Te R","Statham R / Svajda Z",1,0.705,0.295,1.667,2.1,0.564,0.436
+"397","2024-10-08","Roanne, France, Doubles","ATP/CH","Balaji N S / Nedovyesov A","Blancaneaux G / Lamasine T",1,0.613,0.387,1.286,3.5,0.754,0.246
+"398","2024-10-08","Roanne, France, Doubles","ATP/CH","Barrientos N / Pel D","Chidekh C / Sanchez L",1,0.83,0.17,1.3,3.4,0.746,0.254
+"399","2024-10-08","Roanne, France, Doubles","ATP/CH","Demoliner M / Harrison C","Bouquier A / Papamalamis T",1,0.731,0.269,1.167,4.5,0.833,0.167
+"400","2024-10-08","Roanne, France, Doubles","ATP/CH","Escobar G / Hidalgo D","Paul J / Vocel M",0,0.412,0.588,1.4,2.75,0.683,0.317
+"401","2024-10-08","Roanne, France, Doubles","ATP/CH","Frantzen C / Jebens H","Barrere G / Eysseric J",0,0.66,0.34,1.5,2.5,0.638,0.362
+"402","2024-10-08","Roanne, France, Doubles","ATP/CH","Schnaitter J / Wallner M","Haase R / Miedler L",0,0.594,0.406,3,1.364,0.293,0.707
+"403","2024-10-08","Villa Maria, Argentina, Doubles","ATP/CH","Boyer T / Ficovich J P","Arias B / Zeballos F",0,0.351,0.649,2.625,1.444,0.338,0.662
+"404","2024-10-08","Villa Maria, Argentina, Doubles","ATP/CH","Britto L / Saraiva Dos Santos P","Farjat T / Lingua Lavallen A L",1,0.596,0.404,1.533,2.375,0.62,0.38
+"405","2024-10-08","Villa Maria, Argentina, Doubles","ATP/CH","Del Pino M / La Serna J M","Duncan S / Reese H",0,0.612,0.388,3,1.364,0.293,0.707
+"406","2024-10-08","Villa Maria, Argentina, Doubles","ATP/CH","Luz O / Zormann M","Aboian L / Aboian V",1,0.68,0.32,1.333,3.25,0.728,0.272
+"407","2024-10-08","Villa Maria, Argentina, Doubles","ATP/CH","Murkel Dellien / Mena F","Carou I / Ugo Carabelli Camilo",1,0.643,0.357,1.333,3.25,0.728,0.272
+"408","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Colson T / Loof T","Host T / Kose C",1,0.868,0.132,1.05,8.5,0.938,0.062
+"409","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Dumitru M / Sen D","Falck R / Ryan Ziegann S",0,0.329,0.671,8.5,1.05,0.062,0.938
+"410","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Dyer F / Pade C","Klintcharov A / Rai A",0,0.181,0.819,8.5,1.05,0.062,0.938
+"411","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Charlton J / Ellis B","Gray T / Jones S",1,0.907,0.093,1.1,6.5,0.893,0.107
+"412","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Hall F / Sach T L","Adam-Gedge Z / Aguiard E",1,0.593,0.407,1.833,1.833,0.5,0.5
+"413","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Hulme M / Watt J","Vickery L / Winter H",1,0.874,0.126,1.2,4.333,0.812,0.188
+"414","2024-10-08","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Inui Y / Takamisawa T","Delaney J / Delaney J",0,0.156,0.844,5,1.143,0.147,0.853
+"415","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Kielan S / Pieczonka F","Bajurko A / Simundza J",1,0.828,0.172,1.3,3.4,0.746,0.254
+"416","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Jermar J / Zelenay I","Herrmann T / Vincent A",1,0.791,0.209,1.286,3.5,0.754,0.246
+"417","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Nowacki J / Piasek I","Hrazdil J / Szajrych J",0,0.08,0.92,13,1.012,0.019,0.981
+"418","2024-10-08","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Agwi M / Mischker F","Molder M / Tamm K",1,0.591,0.409,1.833,1.833,0.5,0.5
+"419","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Barbier Gazeu P / Covato M","Caripi V / Steiner M",1,0.387,0.613,3,1.364,0.293,0.707
+"420","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Javia D / Reddy R","Neuchrist M / Ramskogler G",0,0.259,0.741,2.75,1.4,0.317,0.683
+"421","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Iamachkine Samarina P P / Plunger M","Desousa J / Van Den Honert V",0,0.543,0.457,1.3,3.4,0.746,0.254
+"422","2024-10-08","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Schachter N / Sinha N K","Sibanda E D / Sibanda M D A",1,0.836,0.164,1.071,7.5,0.918,0.082
+"423","2024-10-08","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Mercer J / Monday J","Bangoura S / Martin D",1,0.627,0.373,1.4,2.75,0.683,0.317
+"424","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Bibiloni M A / Hollender N","Lumsden E / Pourroy L",0,0.13,0.87,8.5,1.05,0.062,0.938
+"425","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Klok D / Oplustil P","Nagoudi A / Smiej Y",0,0.526,0.474,1.333,3.25,0.728,0.272
+"426","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Rodesch C / Woodall W","Gima S / Sallay P",1,0.633,0.367,1.286,3.5,0.754,0.246
+"427","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Campese C / Morandais J-C","Dell Elba V / Faisal G A",1,0.455,0.545,1.4,2.75,0.683,0.317
+"428","2024-10-08","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Jones A / Jones M","Veldkamp Y / Wagenaar L",1,0.907,0.093,1.333,3.25,0.728,0.272
+"429","2024-10-08","Pontevedra, Doubles Main, M-ITF-ESP-42A","ITF","Drayton T / Hamza Reguig S","Benchetrit E / Nikles J",0,0.124,0.876,5,1.143,0.147,0.853
+"430","2024-10-08","Pontevedra, Doubles Main, M-ITF-ESP-42A","ITF","Pascual Ferra R / Tarrio Ponte A","Palan D / Zhukov M",0,0.39,0.61,3.5,1.286,0.246,0.754
+"431","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Blazka D / Gengel M","Butulija B / Ibrahim K",0,0.53,0.47,3.4,1.3,0.254,0.746
+"432","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Bertran P / Mbithi M","De Alba Valdes R A / Sau Franco A",1,0.611,0.389,1.25,3.75,0.777,0.223
+"433","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Ehrenschneider N / Gayk C","Elsayed A / Jones M",0,0.417,0.583,5,1.143,0.147,0.853
+"434","2024-10-08","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Hannestad B / Kikuchi Y","Dalmasso G / Larue L",1,0.801,0.199,1.25,3.75,0.777,0.223
+"435","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Augunas J / Portugal J","Marques G / Rocha F",0,0.251,0.749,5,1.143,0.147,0.853
+"436","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Domingues J / Stice T","Araujo P / Gadamauri B",1,0.541,0.459,2.625,1.444,0.338,0.662
+"437","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Batista D / Stoliar I","Banthia S / Sharan D",0,0.212,0.788,3.5,1.286,0.246,0.754
+"438","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Donski A / Pereira T","Guimaraes F / Valdoleiros G",1,0.874,0.126,1.02,11,0.971,0.029
+"439","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Fernandez Flores D / Zhu M","Hermans M / Vale D",1,0.525,0.475,3.25,1.333,0.272,0.728
+"440","2024-10-08","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Marques D / Turriziani Alvarez A","Fomin S / Seeman J",1,0.382,0.618,2.1,1.667,0.436,0.564
+"441","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Cook E / Gaal C","Birrell C / Court J",1,0.499,0.501,1.571,2.25,0.6,0.4
+"442","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Bladelius H / Volpi G","Jedrzejczak J / Zaorski L",1,0.526,0.474,1.25,3.75,0.777,0.223
+"443","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Faucon R / Valsecchi P","Brunclik P / Kalina V",0,0.162,0.838,2.75,1.4,0.317,0.683
+"444","2024-10-09","Shanghai, China, Doubles","ATP/CH","Behar A / Galloway R","Cash J / Glasspool L",1,0.33,0.67,2.2,1.62,0.416,0.584
+"445","2024-10-09","Shanghai, China, Doubles","ATP/CH","Darderi L / Tabilo A","Pavlasek A / Rojer J-J",0,0.472,0.528,2.63,1.44,0.337,0.663
+"446","2024-10-09","Shanghai, China, Doubles","ATP/CH","Granollers M / Zeballos H","Murray J / Peers J",0,0.679,0.321,1.44,2.63,0.663,0.337
+"447","2024-10-09","Shanghai, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Wang A / Zhou Y",1,0.847,0.153,1.13,6,0.87,0.13
+"448","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Fuchs Z / Thayne W","Harper P / Kiger M",1,0.311,0.689,2.75,1.4,0.317,0.683
+"449","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Oliveira G / Stevenson K","Pearson K / Sheehy J",1,0.348,0.652,1.833,1.833,0.5,0.5
+"450","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Cash R / Tracy J","Daniell M / Hach Verdugo H",0,0.83,0.17,1.4,2.75,0.683,0.317
+"451","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Hilderbrand T / Lawson A","Roveri Sidney G / Whiting T",1,0.673,0.327,1.364,3,0.707,0.293
+"452","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Pannu K / Smith K","Puttergill C / Saville L",1,0.2,0.8,3.25,1.333,0.272,0.728
+"453","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Langmo C / Tomic B","Boitan G A / Kuzuhara B",0,0.431,0.569,1.833,1.833,0.5,0.5
+"454","2024-10-09","Fairfield, USA, Doubles","ATP/CH","Seggerman R / Trhac P","Kodat T A / Martin A",1,0.802,0.198,1.25,3.75,0.777,0.223
+"455","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Hall F / Sach T L","Klintcharov A / Rai A",0,0.168,0.832,3.25,1.333,0.272,0.728
+"456","2024-10-09","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Hulme M / Watt J","Falck R / Ryan Ziegann S",1,0.786,0.214,1.222,4,0.795,0.205
+"457","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Baadi T / Roux E","Arseneault M / Arseneault N",0,0.426,0.574,3.5,1.286,0.246,0.754
+"458","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Hammond L / Kozlov B","Thompkins J / Vega L",1,0.855,0.145,1.444,2.625,0.662,0.338
+"459","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Draxl L / Harper C","Faragcao A / Peck J",1,0.873,0.127,1.025,10.5,0.965,0.035
+"460","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","George B T / Tudorica A N","Maloney P / Wessels L",1,0.159,0.841,4,1.222,0.205,0.795
+"461","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Ganesan A / Vithoontien L","Aguilar J C M / Boulais J",0,0.126,0.874,3.4,1.3,0.254,0.746
+"462","2024-10-09","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Muamba N / Wallart E","Benson M / Kuhar M",1,0.442,0.558,1.833,1.833,0.5,0.5
+"463","2024-10-09","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Kielan S / Pieczonka F","Agwi M / Mischker F",0,0.724,0.276,1.5,2.5,0.638,0.362
+"464","2024-10-09","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Bianchi J J / Perez B","Desousa J / Van Den Honert V",1,0.586,0.414,1.286,3.5,0.754,0.246
+"465","2024-10-09","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Schachter N / Sinha N K","Bieldiugin T / Laborde A",1,0.692,0.308,1.286,3.5,0.754,0.246
+"466","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Horve L / Kim A","Mercer J / Monday J",0,0.34,0.66,2.1,1.667,0.436,0.564
+"467","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Altamirano C / Hadigian E","Mayew W / Salle F",1,0.507,0.493,1.571,2.25,0.6,0.4
+"468","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Johns G / Stepanov R","Chopra K / Thomson M",0,0.709,0.291,1.4,2.75,0.683,0.317
+"469","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Martinez A / Mccormick T","Rybakov A / Vance J",1,0.781,0.219,2.2,1.615,0.415,0.585
+"470","2024-10-09","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Breysach M / Ghibaudo A","Jones A / Vance J",1,0.756,0.244,2.1,1.667,0.436,0.564
+"471","2024-10-09","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Campese C / Morandais J-C","Rodesch C / Woodall W",0,0.054,0.946,7,1.083,0.093,0.907
+"472","2024-10-09","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Jones A / Jones M","Nagoudi A / Smiej Y",1,0.768,0.232,1.333,3.25,0.728,0.272
+"473","2024-10-09","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Butulija B / Ibrahim K","Elsayed A / Jones M",1,0.174,0.826,2.625,1.444,0.338,0.662
+"474","2024-10-09","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Hannestad B / Kikuchi Y","Binda A / Bozemoj B",1,0.601,0.399,2.2,1.615,0.415,0.585
+"475","2024-10-10","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Kask M U / Mehta K","Fishback R / Koons H",0,0.391,0.609,5,1.143,0.147,0.853
+"476","2024-10-10","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Kumaran B N / Nandal Y","Neuchrist M / Ramskogler G",0,0.119,0.881,7,1.083,0.093,0.907
+"477","2024-10-10","Pontevedra, Doubles Main, M-ITF-ESP-42A","ITF","Pedrico Kravtsov A / Segado Esteve R","Demin Y / Radulov I",0,0.58,0.42,4,1.222,0.205,0.795
+"478","2024-10-10","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Agafonov E / Simakin I","Krajci M / Michalik R",1,0.903,0.097,1.083,7,0.907,0.093
+"479","2024-10-10","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Marques G / Rocha F","Banthia S / Sharan D",0,0.392,0.608,2.5,1.5,0.362,0.638
+"480","2024-10-10","Shanghai, China, Doubles","ATP/CH","Koolhof W / Mektic N","Lammons N / Withrow J",1,0.55,0.45,1.91,1.8,0.483,0.517
+"481","2024-10-10","Shanghai, China, Doubles","ATP/CH","Gonzalez S / Roger-Vasselin E","Behar A / Galloway R",1,0.616,0.384,1.73,2,0.541,0.459
+"482","2024-10-10","Shanghai, China, Doubles","ATP/CH","Murray J / Peers J","Pavlasek A / Rojer J-J",0,0.609,0.391,1.73,2,0.541,0.459
+"483","2024-10-10","Shanghai, China, Doubles","ATP/CH","Bolelli S / Vavassori A","Gonzalez M / Molteni A",0,0.659,0.341,1.4,2.75,0.683,0.317
+"484","2024-10-10","Valencia, Spain, Doubles","ATP/CH","Arribage T / Cabral F","Martos Gornes S / Walkow S",1,0.785,0.215,1.25,3.75,0.777,0.223
+"485","2024-10-10","Valencia, Spain, Doubles","ATP/CH","Bortolotti M / Ricca G","Drzewiecki K / Matuszewski P",0,0.521,0.479,2.25,1.571,0.4,0.6
+"486","2024-10-10","Valencia, Spain, Doubles","ATP/CH","Cornea V V / Molchanov D","Merino A / Negritu C",0,0.575,0.425,1.533,2.375,0.62,0.38
+"487","2024-10-10","Valencia, Spain, Doubles","ATP/CH","Jecan M-A / Liutarevich I","Nedunchezhiyan J / Prashanth N V S",0,0.532,0.468,2.25,1.571,0.4,0.6
+"488","2024-10-10","Fairfield, USA, Doubles","ATP/CH","Boitan G A / Kuzuhara B","Pannu K / Smith K",1,0.417,0.583,2.375,1.533,0.38,0.62
+"489","2024-10-10","Fairfield, USA, Doubles","ATP/CH","Oliveira G / Stevenson K","Daniell M / Hach Verdugo H",1,0.409,0.591,3,1.364,0.293,0.707
+"490","2024-10-10","Fairfield, USA, Doubles","ATP/CH","Hilderbrand T / Lawson A","Fuchs Z / Thayne W",1,0.725,0.275,1.25,3.75,0.777,0.223
+"491","2024-10-10","Fairfield, USA, Doubles","ATP/CH","Seggerman R / Trhac P","Popko D / Zakharov A",1,0.866,0.134,1.143,5,0.853,0.147
+"492","2024-10-10","Hangzhou, China, Doubles","ATP/CH","Blanchet U / Harris B","Bollipalli R C / Kadhe A",1,0.239,0.761,2.625,1.444,0.338,0.662
+"493","2024-10-10","Hangzhou, China, Doubles","ATP/CH","Fancutt T / Shimizu Y","Lock B / Mccabe J",1,0.614,0.386,1.727,2,0.541,0.459
+"494","2024-10-10","Hangzhou, China, Doubles","ATP/CH","Rodriguez C / Romios M C","Tang S / Zheng Z",1,0.68,0.32,1.1,6.5,0.893,0.107
+"495","2024-10-10","Hangzhou, China, Doubles","ATP/CH","Sun F / Te R","Bolt A / Walton A",1,0.483,0.517,3.75,1.25,0.223,0.777
+"496","2024-10-10","Roanne, France, Doubles","ATP/CH","Holmgren A / Ingildsen J","Haase R / Miedler L",0,0.577,0.423,2.5,1.5,0.362,0.638
+"497","2024-10-10","Roanne, France, Doubles","ATP/CH","Balaji N S / Nedovyesov A","Demoliner M / Harrison C",1,0.569,0.431,1.615,2.2,0.585,0.415
+"498","2024-10-10","Roanne, France, Doubles","ATP/CH","Barrere G / Eysseric J","Paul J / Vocel M",0,0.381,0.619,1.571,2.25,0.6,0.4
+"499","2024-10-10","Villa Maria, Argentina, Doubles","ATP/CH","Britto L / Saraiva Dos Santos P","Arias B / Zeballos F",0,0.471,0.529,3.5,1.286,0.246,0.754
+"500","2024-10-10","Villa Maria, Argentina, Doubles","ATP/CH","Luz O / Zormann M","Alves M / Kestelboim M",1,0.657,0.343,1.333,3.25,0.728,0.272
+"501","2024-10-10","Villa Maria, Argentina, Doubles","ATP/CH","Sakamoto P / Villanueva G","Duncan S / Reese H",1,0.508,0.492,2.75,1.4,0.317,0.683
+"502","2024-10-10","Villa Maria, Argentina, Doubles","ATP/CH","Casanova H / Rodriguez Taverna S","Murkel Dellien / Mena F",1,0.333,0.667,2.2,1.615,0.415,0.585
+"503","2024-10-10","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Cook E / Gaal C","Delaney J / Delaney J",0,0.205,0.795,5,1.143,0.147,0.853
+"504","2024-10-10","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Hammond L / Kozlov B","Lieberman H / Vasser O",1,0.718,0.282,1.571,2.25,0.6,0.4
+"505","2024-10-10","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Jermar J / Zelenay I","Bladelius H / Volpi G",1,0.706,0.294,1.333,3.25,0.728,0.272
+"506","2024-10-10","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Breysach M / Ghibaudo A","Martinez A / Mccormick T",1,0.296,0.704,2.625,1.444,0.338,0.662
+"507","2024-10-10","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Chopra K / Thomson M","Altamirano C / Hadigian E",1,0.506,0.494,1.5,2.5,0.638,0.362
+"508","2024-10-10","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Eichenseher D / Prechtel S","Lumsden E / Pourroy L",0,0.355,0.645,7,1.083,0.093,0.907
+"509","2024-10-11","Valencia, Spain, Doubles","ATP/CH","Merino A / Negritu C","Arribage T / Cabral F",1,0.334,0.666,4.333,1.2,0.188,0.812
+"510","2024-10-11","Valencia, Spain, Doubles","ATP/CH","Nedunchezhiyan J / Prashanth N V S","Drzewiecki K / Matuszewski P",0,0.479,0.521,1.727,2,0.541,0.459
+"511","2024-10-11","Fairfield, USA, Doubles","ATP/CH","Oliveira G / Stevenson K","Boitan G A / Kuzuhara B",0,0.509,0.491,1.727,2,0.541,0.459
+"512","2024-10-11","Hangzhou, China, Doubles","ATP/CH","Fancutt T / Shimizu Y","Rodriguez C / Romios M C",1,0.549,0.451,2.2,1.615,0.415,0.585
+"513","2024-10-11","Hangzhou, China, Doubles","ATP/CH","Sun F / Te R","Blanchet U / Harris B",1,0.629,0.371,1.833,1.833,0.5,0.5
+"514","2024-10-11","Roanne, France, Doubles","ATP/CH","Haase R / Miedler L","Barrientos N / Pel D",0,0.502,0.498,1.364,3,0.707,0.293
+"515","2024-10-11","Roanne, France, Doubles","ATP/CH","Paul J / Vocel M","Balaji N S / Nedovyesov A",1,0.495,0.505,2.5,1.5,0.362,0.638
+"516","2024-10-11","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Klintcharov A / Rai A","Delaney J / Delaney J",0,0.533,0.467,2.25,1.571,0.4,0.6
+"517","2024-10-11","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Colson T / Loof T","Hulme M / Watt J",1,0.568,0.432,1.833,1.833,0.5,0.5
+"518","2024-10-11","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Fishback R / Koons H","George B T / Tudorica A N",0,0.574,0.426,2.2,1.615,0.415,0.585
+"519","2024-10-11","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Agwi M / Mischker F","Jermar J / Zelenay I",0,0.39,0.61,2.375,1.533,0.38,0.62
+"520","2024-10-11","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Iradukunda G O / Ouakaa A","Neuchrist M / Ramskogler G",1,0.468,0.532,2.5,1.5,0.362,0.638
+"521","2024-10-11","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Schachter N / Sinha N K","Bianchi J J / Perez B",1,0.635,0.365,1.5,2.5,0.638,0.362
+"522","2024-10-11","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Maginley H J / Zhu E","Breysach M / Ghibaudo A",1,0.403,0.597,2.1,1.667,0.436,0.564
+"523","2024-10-11","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Chopra K / Thomson M","Mercer J / Monday J",0,0.29,0.71,2.2,1.615,0.415,0.585
+"524","2024-10-11","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Lumsden E / Pourroy L","Jones A / Jones M",1,0.505,0.495,1.533,2.375,0.62,0.38
+"525","2024-10-11","Monastir, Doubles Main, M-ITF-TUN-53A","ITF","Rodesch C / Woodall W","Elamin A / Gil Garcia A",1,0.922,0.078,1.167,4.5,0.832,0.168
+"526","2024-10-11","Pontevedra, Doubles Main, M-ITF-ESP-42A","ITF","Hudd E / Whitehouse M","Demin Y / Radulov I",0,0.722,0.278,1.5,2.5,0.638,0.362
+"527","2024-10-11","Sharm ElSheikh, Doubles Main, M-ITF-EGY-14A","ITF","Hannestad B / Kikuchi Y","Butulija B / Ibrahim K",0,0.838,0.162,1.571,2.25,0.6,0.4
+"528","2024-10-11","Sintra, Doubles Main, M-ITF-POR-22A","ITF","Fernandez Flores D / Zhu M","Banthia S / Sharan D",0,0.334,0.666,4.333,1.2,0.188,0.812
+"529","2024-10-12","Shanghai, China, Doubles","ATP/CH","Pavlasek A / Rojer J-J","Gonzalez M / Molteni A",0,0.457,0.543,1.83,1.83,0.5,0.5
+"530","2024-10-12","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","Draxl L / Harper C","Hammond L / Kozlov B",1,0.646,0.354,1.125,5.5,0.869,0.131
+"531","2024-10-12","Valencia, Spain, Doubles","ATP/CH","Merino A / Negritu C","Drzewiecki K / Matuszewski P",1,0.462,0.538,2.25,1.571,0.4,0.6
+"532","2024-10-12","Fairfield, USA, Doubles","ATP/CH","Seggerman R / Trhac P","Boitan G A / Kuzuhara B",1,0.821,0.179,1.2,4.333,0.812,0.188
+"533","2024-10-12","Hangzhou, China, Doubles","ATP/CH","Fancutt T / Shimizu Y","Sun F / Te R",0,0.7,0.3,1.571,2.25,0.6,0.4
+"534","2024-10-12","Roanne, France, Doubles","ATP/CH","Paul J / Vocel M","Barrientos N / Pel D",0,0.615,0.385,2.25,1.571,0.4,0.6
+"535","2024-10-12","Cairns, Doubles Main, M-ITF-AUS-08A","ITF","Colson T / Loof T","Delaney J / Delaney J",1,0.678,0.322,1.833,1.833,0.5,0.5
+"536","2024-10-12","Edmonton, Doubles Main, M-ITF-CAN-01A","ITF","George B T / Tudorica A N","Aguilar J C / Boulais J",1,0.13,0.87,3.75,1.25,0.223,0.777
+"537","2024-10-12","Grodzisk Mazowiecki, Doubles Main, M-ITF-POL-11A","ITF","Jermar J / Zelenay I","Bastiaansen P / Wassermann D",0,0.69,0.31,1.444,2.625,0.662,0.338
+"538","2024-10-12","Kampala, Doubles Main, M-ITF-UGA-02A","ITF","Schachter N / Sinha N K","Iradukunda G O / Ouakaa A",0,0.434,0.566,1.667,2.1,0.564,0.436
+"539","2024-10-12","Louisville, Doubles Main, M-ITF-USA-29A","ITF","Mercer J / Monday J","Maginley H J / Zhu E",1,0.747,0.253,1.5,2.5,0.638,0.362
+"540","2024-10-12","Pontevedra, Doubles Main, M-ITF-ESP-42A","ITF","Demin Y / Radulov I","Izquierdo Luque R / Marrero Curbelo I",0,0.345,0.655,2.25,1.571,0.4,0.6
+"541","2024-10-12","S. Margherita di Pula, Doubles Main, M-ITF-ITA-32A","ITF","Milev Y / Nesterov P","Spadola A / Vavassori M",1,0.722,0.278,1.222,4,0.795,0.205
