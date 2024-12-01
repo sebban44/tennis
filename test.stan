@@ -39,9 +39,11 @@ transformed parameters {
     alpha_surface[i, :] = sigma_surf * eta_surface[i, :];
   }
 
-  alpha[1] = sigma_a0 * eta_a[1];
+  for(t in 1:num_teams) {
+   alpha_team[t] = sigma_team * eta_team[t];
+  }
 
-  alpha_team[1] = sigma_team * eta_team[1];
+  alpha[1] = sigma_a0 * eta_a[1];
 
   for (p in 2:num_periods) {
     alpha[p] = alpha[p-1] + sigma_a *  eta_a[p];
