@@ -52,19 +52,20 @@ model {
   sigma_a0 ~ normal(0, 1);
   sigma_a ~ normal(0, 1);
   sigma_surf ~ normal(0, 1);
-  sigma_team ~ normal(0, 0.1);
+  sigma_team ~ normal(0, 1);
 
   to_vector(eta_a) ~ normal(0, 1);
   to_vector(eta_surface) ~ normal(0, 1);
-  to_vector(eta_team) ~ normal(0, 0.1);
+  to_vector(eta_team) ~ normal(0, 1);
 
   vector[num_matches] pred_logits;
 
   for (n in 1:num_matches) {
-    pred_logits[n] = alpha_team[team1] + (alpha[period[n], p1[n]] + alpha[period[n], p2[n]]) -
-                     alpha_team[team2] + (alpha[period[n], p3[n]] + alpha[period[n], p4[n]]) +
+    pred_logits[n] = (alpha[period[n], p1[n]] + alpha[period[n], p2[n]]) -
+                     (alpha[period[n], p3[n]] + alpha[period[n], p4[n]]) +
                      (alpha_surface[surface[n], p1[n]] + alpha_surface[surface[n], p2[n]]) -
-                     (alpha_surface[surface[n], p3[n]] + alpha_surface[surface[n], p4[n]]);
+                     (alpha_surface[surface[n], p3[n]] + alpha_surface[surface[n], p4[n]]) +
+                     (alpha_team[team1] - alpha_team[team2]);
  }
 
   outcome ~ bernoulli_logit(pred_logits);
