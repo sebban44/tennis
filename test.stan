@@ -27,7 +27,7 @@ parameters {
 
   matrix[num_periods, num_players] eta_a;
   matrix[num_surfaces, num_players] eta_surface;
-  vextor[num_teams] eta_team;
+  vector[num_teams] eta_team;
 }
 
 transformed parameters {
