@@ -1,0 +1,97 @@
+#include <Rcpp.h>
+#include <unordered_map>
+#include <cmath>
+
+using namespace Rcpp;
+
+// [[Rcpp::export]]
+DataFrame elo_update(DataFrame players, DataFrame matches, double lambda = 0.02) {
+  CharacterVector names = players["name"];
+  NumericVector rankings = players["ranking"];
+  NumericVector months_absent = players["months_absent"];  // Retrieve months absent
+
+  CharacterVector winner_names1 = matches["winner1"];
+  CharacterVector winner_names2 = matches["winner2"];
+  CharacterVector loser_names1 = matches["loser1"];
+  CharacterVector loser_names2 = matches["loser2"];
+  CharacterVector match_dates = matches["date"];
+  NumericVector k_fac1 = matches["k1"];
+  NumericVector k_fac2 = matches["k2"];
+  NumericVector k_fac3 = matches["k3"];
+  NumericVector k_fac4 = matches["k4"];
+  CharacterVector surfaces = matches["surface"];
+  
+  // Create a map for quick lookup of player rankings and inactivity
+  std::unordered_map<std::string, double> player_rankings;
+  std::unordered_map<std::string, double> player_months_absent;
+  
+  for (int i = 0; i < names.size(); ++i) {
+    player_rankings[as<std::string>(names[i])] = rankings[i];
+    player_months_absent[as<std::string>(names[i])] = months_absent[i];
+  }
+  
+  // Create vectors to hold the output
+  int n_matches = winner_names1.size();
+  CharacterVector dates(n_matches);
+  CharacterVector winner1(n_matches), winner2(n_matches), loser1(n_matches), loser2(n_matches);
+  NumericVector beforeEloA1(n_matches), beforeEloA2(n_matches), beforeEloB1(n_matches), beforeEloB2(n_matches);
+  NumericVector probA(n_matches), probB(n_matches);
+  NumericVector updateEloA1(n_matches), updateEloA2(n_matches), updateEloB1(n_matches), updateEloB2(n_matches);
+  NumericVector newEloA1(n_matches), newEloA2(n_matches), newEloB1(n_matches), newEloB2(n_matches);
+  
+  for (int i = 0; i < n_matches; ++i) {
+    winner1[i] = winner_names1[i];
+    winner2[i] = winner_names2[i];
+    loser1[i] = loser_names1[i];
+    loser2[i] = loser_names2[i];
+    dates[i] = match_dates[i];
+    
+    // Apply multiplicative decay to player Elo ratings
+    auto decay_elo = [&](std::string player) {
+      if (player_rankings.count(player)) {
+        double t = player_months_absent.count(player) ? player_months_absent[player] : 0;
+        return player_rankings[player] * std::exp(-lambda * t);
+      }
+      return 1500.0;  // Default Elo for new players
+    };
+    
+    beforeEloA1[i] = decay_elo(as<std::string>(winner1[i]));
+    beforeEloA2[i] = decay_elo(as<std::string>(winner2[i]));
+    beforeEloB1[i] = decay_elo(as<std::string>(loser1[i]));
+    beforeEloB2[i] = decay_elo(as<std::string>(loser2[i]));
+    
+    // Compute match probability
+    probA[i] = 1 / (1 + std::pow(10, ((beforeEloB1[i] + beforeEloB2[i]) / 2 - (beforeEloA1[i] + beforeEloA2[i]) / 2) / 500));
+    probB[i] = 1 - probA[i];
+    
+    // Update Elo ratings based on match outcome
+    updateEloA1[i] = k_fac1[i] * (1 - probA[i]);
+    updateEloA2[i] = k_fac2[i] * (1 - probA[i]);
+    updateEloB1[i] = k_fac3[i] * (0 - probB[i]);
+    updateEloB2[i] = k_fac4[i] * (0 - probB[i]);
+    
+    newEloA1[i] = beforeEloA1[i] + updateEloA1[i];
+    newEloA2[i] = beforeEloA2[i] + updateEloA2[i];
+    newEloB1[i] = beforeEloB1[i] + updateEloB1[i];
+    newEloB2[i] = beforeEloB2[i] + updateEloB2[i];
+    
+    // Update player rankings in the map
+    player_rankings[as<std::string>(winner1[i])] = newEloA1[i];
+    player_rankings[as<std::string>(winner2[i])] = newEloA2[i];
+    player_rankings[as<std::string>(loser1[i])] = newEloB1[i];
+    player_rankings[as<std::string>(loser2[i])] = newEloB2[i];
+  }
+  
+  // Create the final DataFrame
+  return DataFrame::create(_["date"] = dates,
+                           _["surface"] = surfaces,
+                           _["winner1"] = winner1, _["winner2"] = winner2,
+                           _["loser1"] = loser1, _["loser2"] = loser2,
+                           _["before.EloA1"] = beforeEloA1, _["before.EloA2"] = beforeEloA2,
+                           _["before.eloB1"] = beforeEloB1, _["before.eloB2"] = beforeEloB2,
+                           _["probA"] = probA, _["probB"] = probB,
+                           _["update.EloA1"] = updateEloA1, _["update.EloA2"] = updateEloA2,
+                           _["update.EloB1"] = updateEloB1, _["update.eloB2"] = updateEloB2,
+                           _["new.eloA1"] = newEloA1, _["new.eloA2"] = newEloA2,
+                           _["new.eloB1"] = newEloB1, _["new.eloB2"] = newEloB2);
+}
